@@ -1,6 +1,6 @@
 {
     "name": "apidom-validate-cli",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "description": "CLI tool for validating Apidom files",
     "keywords": [
         "apidom",
