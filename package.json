@@ -19,6 +19,9 @@
     "license": "MIT",
     "type": "module",
     "bin": "./bin/apidom-validate-cli.mjs",
+    "files": [
+        "bin"
+    ],
     "scripts": {
         "check": "pnpm run lint:check && pnpm run format:check",
         "format": "prettier --write .",
