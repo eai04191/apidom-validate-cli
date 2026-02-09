@@ -30,9 +30,9 @@
         "lint:check": "eslint ."
     },
     "dependencies": {
-        "@swagger-api/apidom-ls": "1.0.0-beta.45",
+        "@swagger-api/apidom-ls": "1.4.0",
         "chalk": "^5.5.0",
-        "citty": "^0.1.6",
+        "citty": "^0.2.0",
         "vscode-languageserver-textdocument": "^1.0.12"
     },
     "devDependencies": {
