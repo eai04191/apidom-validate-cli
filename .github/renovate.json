@@ -1,0 +1,24 @@
+{
+    "$schema": "https://docs.renovatebot.com/renovate-schema.json",
+    "extends": ["config:best-practices"],
+    "automerge": true,
+    "platformAutomerge": true,
+    "packageRules": [
+        {
+            "matchPackageNames": ["@swagger-api/apidom-ls"],
+            "semanticCommitType": "feat",
+            "semanticCommitScope": "deps",
+            "minimumReleaseAge": null
+        },
+        {
+            "matchPackageNames": ["@swagger-api/apidom-ls"],
+            "matchUpdateTypes": ["major"],
+            "commitMessagePrefix": "feat(deps)!:",
+            "commitBody": "BREAKING CHANGE: @swagger-api/apidom-ls major version bump"
+        },
+        {
+            "matchUpdateTypes": ["major"],
+            "automerge": false
+        }
+    ]
+}

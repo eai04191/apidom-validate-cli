@@ -1,0 +1,17 @@
+{
+    "extends": "@tsconfig/strictest/tsconfig.json",
+    "compilerOptions": {
+        "target": "ESNext",
+        "module": "NodeNext",
+        "moduleResolution": "NodeNext",
+        "types": ["node"],
+        "erasableSyntaxOnly": true,
+        "allowImportingTsExtensions": true,
+        "allowJs": true,
+        "checkJs": true,
+        "resolveJsonModule": true,
+        "declaration": false,
+        "noEmit": true
+    },
+    "include": ["bin", "tests"]
+}
