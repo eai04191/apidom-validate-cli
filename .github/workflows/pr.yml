@@ -24,3 +24,37 @@ jobs:
           cache: pnpm
       - run: pnpm install --frozen-lockfile
       - run: pnpm run check
+
+  # engines.node が広告する利用者向けバージョン帯で CLI が動作することを担保する。
+  # 配布 tarball を pnpm pack で生成し、利用者と同じ手段（npm install -g）で取り込んで bin を起動する。
+  # pnpm 11 は Node >=22.13 を要求するため、pack は devEngines.runtime の Node で実行する。
+  smoke-test:
+    name: smoke test (Node ${{ matrix.node-version }})
+    runs-on: ubuntu-latest
+    strategy:
+      fail-fast: false
+      matrix:
+        node-version: ["22.0.0", "22", "24", "26"]
+    steps:
+      - uses: actions/checkout@de0fac2e4500dabe0009e67214ff5f5447ce83dd # v6.0.2
+        with:
+          persist-credentials: false
+      - run: corepack enable
+      - uses: actions/setup-node@48b55a011bda9f5d6aeb4c2d9c7362e8dae4041e # v6.4.0
+        with:
+          node-version-file: package.json
+          cache: pnpm
+      - run: pnpm install --frozen-lockfile
+      - run: pnpm pack
+      - uses: actions/setup-node@48b55a011bda9f5d6aeb4c2d9c7362e8dae4041e # v6.4.0
+        with:
+          node-version: ${{ matrix.node-version }}
+      - run: npm install -g ./apidom-validate-cli-*.tgz
+      - name: valid fixture should exit 0
+        run: apidom-validate-cli tests/fixtures/valid.yaml
+      - name: invalid fixture should exit non-zero
+        run: |
+          if apidom-validate-cli tests/fixtures/invalid.yaml; then
+            echo "Expected non-zero exit code"
+            exit 1
+          fi
