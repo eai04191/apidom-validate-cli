@@ -42,6 +42,7 @@
         "vscode-languageserver-textdocument": "1.0.12"
     },
     "devDependencies": {
+        "@semantic-release/exec": "7.1.0",
         "@tsconfig/strictest": "2.0.8",
         "@types/node": "24.12.4",
         "npm-run-all2": "8.0.4",
