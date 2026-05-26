@@ -45,7 +45,7 @@
         "@semantic-release/exec": "7.1.0",
         "@tsconfig/strictest": "2.0.8",
         "@types/node": "24.12.4",
-        "npm-run-all2": "9.0.0",
+        "npm-run-all2": "9.0.1",
         "oxfmt": "0.51.0",
         "oxlint": "1.66.0",
         "oxlint-config-presets": "0.1.11",
