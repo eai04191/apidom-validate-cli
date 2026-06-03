@@ -19,7 +19,7 @@
             "matchPackageNames": ["@swagger-api/apidom-ls"],
             "semanticCommitType": "feat",
             "semanticCommitScope": "deps",
-            "minimumReleaseAge": null
+            "minimumReleaseAge": "1 days"
         },
         {
             "matchPackageNames": ["@swagger-api/apidom-ls"],
