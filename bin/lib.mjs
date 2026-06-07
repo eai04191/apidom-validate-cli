@@ -39,12 +39,15 @@ export function formatDiagnostic(diagnostic) {
         (diagnostic.severity !== undefined && SEVERITY_LABELS[diagnostic.severity]) ?? "unknown";
     const severityColor = severityLabel === "error" ? COLORS.error : COLORS.warning;
 
+    const message =
+        typeof diagnostic.message === "string" ? diagnostic.message : diagnostic.message.value;
+
     return (
         PADDING +
         [
             COLORS.gray(position),
             severityColor(severityLabel),
-            diagnostic.message,
+            message,
             diagnostic.code !== undefined ? COLORS.gray(diagnostic.code) : "",
         ]
             .filter(Boolean)
