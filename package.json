@@ -44,7 +44,7 @@
     "devDependencies": {
         "@semantic-release/exec": "7.1.0",
         "@tsconfig/strictest": "2.0.8",
-        "@types/node": "24.12.4",
+        "@types/node": "24.13.0",
         "npm-run-all2": "9.0.1",
         "oxfmt": "0.53.0",
         "oxlint": "1.68.0",
