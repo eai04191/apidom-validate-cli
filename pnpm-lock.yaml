@@ -231,7 +231,7 @@ importers:
         version: 24.13.2
       node:
         specifier: runtime:26
-        version: runtime:26.2.0
+        version: runtime:26.3.0
       npm-run-all2:
         specifier: 9.0.1
         version: 9.0.1
@@ -629,8 +629,8 @@ packages:
     resolution: {integrity: sha512-YcPQ8a0jwYU9bTdJDpXjMi7Brhkr1mXsXrUJvjqM2mQDgkRiz8jFaQGOdaLxgjtUfQgZhKy/O3cG/YwmgKaxLA==}
     engines: {node: '>=12.22.0'}
 
-  '@pnpm/npm-conf@3.0.2':
-    resolution: {integrity: sha512-h104Kh26rR8tm+a3Qkc5S4VLYint3FE48as7+/5oCEcKR2idC/pF1G6AhIXKI+eHPJa/3J9i5z0Al47IeGHPkA==}
+  '@pnpm/npm-conf@3.0.3':
+    resolution: {integrity: sha512-//0sR/cow/s4ICQaYoAobOl4aU8cjU6x/V24V7XkKotb9+O+3zySIYp146vpaobYHnxa4pZX8NkV54Z5AwbDKA==}
     engines: {node: '>=12'}
 
   '@sec-ant/readable-stream@0.4.1':
@@ -897,8 +897,8 @@ packages:
   asynckit@0.4.0:
     resolution: {integrity: sha512-Oei9OH4tRh0YqU3GxhX79dM/mwVgvbZJaSNaRk+bshkj0S5cfHcgYakreBjrHwatXKbz+IoIdYLxrKim2MjW0Q==}
 
-  axios@1.16.1:
-    resolution: {integrity: sha512-caYkukvroVPO8KrzuJEb50Hm07KwfBZPEC3VeFHTsqWHvKTsy54hjJz9BS/cdaypROE2rH6xvm9mHX4fgWkr3A==}
+  axios@1.17.0:
+    resolution: {integrity: sha512-J8SwNxprqqpbfenehxWYXE7CW+wM1BB4w3+N+g+/Wx40xM4rsLrfPmHHxSWIxJLYDgSY/HqlFPIYb2/S3rxafw==}
 
   balanced-match@4.0.4:
     resolution: {integrity: sha512-BLrgEcRTwX2o6gGxGOCNyMvGSp35YofuYzw9h1IMTRmKqttAZZVU67bdb9Pr2vUHA8+j3i2tJfjO6C6+4myGTA==}
@@ -1024,8 +1024,8 @@ packages:
   core-util-is@1.0.3:
     resolution: {integrity: sha512-ZQBvi1DcpJ4GDqanjucZ2Hj3wEO5pZDS89BWbkcrvdxksJorwUDDZamX9ldFkp9aw2lmBDLgkObEA4DWNJ9FYQ==}
 
-  cosmiconfig@9.0.1:
-    resolution: {integrity: sha512-hr4ihw+DBqcvrsEDioRO31Z17x71pUYoNe/4h6Z0wB72p7MU7/9gH8Q3s12NFhHPfYBBOV3qyfUxmr/Yn3shnQ==}
+  cosmiconfig@9.0.2:
+    resolution: {integrity: sha512-gtTZxTDau1wL7Y7zifc2dd8jHSK/k6BTx/2Xp/BpdlAdnlYWFVt7qhJqgwi7637yRwRQ3qL4ZidbB4I8tA5VOg==}
     engines: {node: '>=14'}
     peerDependencies:
       typescript: '>=4.9.5'
@@ -1181,8 +1181,8 @@ packages:
       debug:
         optional: true
 
-  form-data@4.0.5:
-    resolution: {integrity: sha512-8RipRLol37bNs2bhoV67fiTEvdTrbMUYcFTiy3+wuuOnUog2QBHCZWXDRijWQfAkhBj2Uf5UnVaiWwA5vdd82w==}
+  form-data@4.0.6:
+    resolution: {integrity: sha512-vKatAh4SlVfgbv+YtmhiRjhEMJsYpsG1Y2rMQtR+SVSbytsSD1YGzDIcrAJmdFec88u/+VoGmxnl+80gL1tRCQ==}
     engines: {node: '>= 6'}
 
   fs-extra@11.3.5:
@@ -1277,16 +1277,16 @@ packages:
     resolution: {integrity: sha512-Hc+ghLoSt6QaYZUv0WBiIvmMDZuZZ7oaDvdH8MbfOO4lOsxdXLEvuC6ePoGs9H1X9oCLyq6+NVN0MKqD+ydxyg==}
     engines: {node: ^20.17.0 || >=22.9.0}
 
-  http-proxy-agent@9.0.0:
-    resolution: {integrity: sha512-FcF8VhXYLQcxWCnt/cCpT2apKsRDUGeVEeMqGu4HSTu29U8Yw0TLOjdYIlDsYk3IkUh+taX4IDWpPcCqKDhCjA==}
+  http-proxy-agent@9.1.0:
+    resolution: {integrity: sha512-2NxoveTT58mjYT4n3RPTEfCZGLMbidoO8XEieXfpSYxu+PQJ1qpx4ypwH6N+uF9twBPIvRRgvkvW5HUTYWENig==}
     engines: {node: '>= 20'}
 
   https-proxy-agent@5.0.1:
     resolution: {integrity: sha512-dFcAjpTQFgoLMzC2VwU+C/CbS7uRL0lWmxDITmqm7C+7F0Odmj6s9l6alZc6AELXhrnggM2CeWSXHGOdX2YtwA==}
     engines: {node: '>= 6'}
 
-  https-proxy-agent@9.0.0:
-    resolution: {integrity: sha512-/MVmHp58WkOypgFhCLk4fzpPcFQvTJ/e6LBI7irpIO2HfxUbpmYoHF+KzipzJpxxzJu7aJNWQ0xojJ/dzV2G5g==}
+  https-proxy-agent@9.1.0:
+    resolution: {integrity: sha512-ag87y7cJJ9/3+GxFr8Oy4O5faDsGRGnBGsJj/YjOSsSx/5eadKLYTMPlzuR6obgoCDDm0abAAZitXXQkMOPSpA==}
     engines: {node: '>= 20'}
 
   human-signals@5.0.0:
@@ -1378,8 +1378,8 @@ packages:
   js-tokens@4.0.0:
     resolution: {integrity: sha512-RdJUflcE3cUzKiMqQgsCu06FPu9UdIJO0beYbPhHN4k6apgJtifcoCtT9bcxOpYBtpD2kCM6Sbzg4CausW/PKQ==}
 
-  js-yaml@4.1.1:
-    resolution: {integrity: sha512-qQKT4zQxXl8lLwBtHMWwaTcGfFOZviOJet3Oy/xmGk2gZH677CJM9EvtfdSkgWcATZhj/55JZ0rmy3myCT5lsA==}
+  js-yaml@4.2.0:
+    resolution: {integrity: sha512-ePWsvanv0DWuDRsW8dnt+R4jQ31SCRCQ7hhNcPXZPsoBZiemuZNYGf7adZdqX2D86j6rvKp3RpCxVTSb8WQlOw==}
     hasBin: true
 
   jsep@1.4.0:
@@ -1538,7 +1538,7 @@ packages:
     resolution: {integrity: sha512-LA4ZjwlnUblHVgq0oBF3Jl/6h/Nvs5fzBLwdEF4nuxnFdsfajde4WfxtJr3CaiH+F6ewcIB/q4jQ4UzPyid+CQ==}
     hasBin: true
 
-  node@runtime:26.2.0:
+  node@runtime:26.3.0:
     resolution:
       type: variations
       variants:
@@ -1546,9 +1546,9 @@ packages:
             archive: tarball
             bin:
               node: bin/node
-            integrity: sha256-zvLmWJf5cIi1EvkiiWpW3j7AYU0CCBbvDst2KQ5wi4E=
+            integrity: sha256-R5NBrZoQMO451k0ZLnswxxn2gNCW+LSPDPUS8kD8MoU=
             type: binary
-            url: https://nodejs.org/download/release/v26.2.0/node-v26.2.0-aix-ppc64.tar.gz
+            url: https://nodejs.org/download/release/v26.3.0/node-v26.3.0-aix-ppc64.tar.gz
           targets:
             - cpu: ppc64
               os: aix
@@ -1556,9 +1556,9 @@ packages:
             archive: tarball
             bin:
               node: bin/node
-            integrity: sha256-LYV1tqdJwLxmzG7NIqlS99m787Dqdvyw7TzoWAGK//c=
+            integrity: sha256-d+9/ehWqdXwsoZ1jz0HI2es7GFkOvGiDhxMQeH2Ma2w=
             type: binary
-            url: https://nodejs.org/download/release/v26.2.0/node-v26.2.0-darwin-arm64.tar.gz
+            url: https://nodejs.org/download/release/v26.3.0/node-v26.3.0-darwin-arm64.tar.gz
           targets:
             - cpu: arm64
               os: darwin
@@ -1566,9 +1566,9 @@ packages:
             archive: tarball
             bin:
               node: bin/node
-            integrity: sha256-JqVIDQ3ZUr6Gvq6D5mNtrNej/9F+9R0LJrybJg8rQuk=
+            integrity: sha256-dFO9VKF73GVuLnhNcC9u6yJPtReWXm+MWjGojIPTgEw=
             type: binary
-            url: https://nodejs.org/download/release/v26.2.0/node-v26.2.0-darwin-x64.tar.gz
+            url: https://nodejs.org/download/release/v26.3.0/node-v26.3.0-darwin-x64.tar.gz
           targets:
             - cpu: x64
               os: darwin
@@ -1576,9 +1576,9 @@ packages:
             archive: tarball
             bin:
               node: bin/node
-            integrity: sha256-v1JGHSUBdHnNxUlkLE56IwOsXFOV18PQJtXYs/ooPAU=
+            integrity: sha256-suAfZZBcJMtd0ZxM+/7+ARjgUEwXDMGL6sNDoqu7Wb0=
             type: binary
-            url: https://nodejs.org/download/release/v26.2.0/node-v26.2.0-linux-arm64.tar.gz
+            url: https://nodejs.org/download/release/v26.3.0/node-v26.3.0-linux-arm64.tar.gz
           targets:
             - cpu: arm64
               os: linux
@@ -1586,9 +1586,9 @@ packages:
             archive: tarball
             bin:
               node: bin/node
-            integrity: sha256-S1JCmzWgSaDPV0NgzRsRy8nwMgHROHbyaJfJhj0l7Ek=
+            integrity: sha256-DmzJoiNTm+AnN4hl2Vmu5Vv46UHJv2kLIIK3i/zA5O8=
             type: binary
-            url: https://nodejs.org/download/release/v26.2.0/node-v26.2.0-linux-ppc64le.tar.gz
+            url: https://nodejs.org/download/release/v26.3.0/node-v26.3.0-linux-ppc64le.tar.gz
           targets:
             - cpu: ppc64le
               os: linux
@@ -1596,9 +1596,9 @@ packages:
             archive: tarball
             bin:
               node: bin/node
-            integrity: sha256-nQZJFOOKWz5qMHRkdAcZgRb3vHJPzlqWAM7OhKx9pnE=
+            integrity: sha256-sYgOE6lXQw9FTLgrqYf8r4LMRBPHQoJ8BLtewgeZ1CY=
             type: binary
-            url: https://nodejs.org/download/release/v26.2.0/node-v26.2.0-linux-s390x.tar.gz
+            url: https://nodejs.org/download/release/v26.3.0/node-v26.3.0-linux-s390x.tar.gz
           targets:
             - cpu: s390x
               os: linux
@@ -1606,9 +1606,9 @@ packages:
             archive: tarball
             bin:
               node: bin/node
-            integrity: sha256-jltLlpuyQUrKL/hNK5lghRGu3KMr+KhCfmGH291wO74=
+            integrity: sha256-puZcxlPkDBZTt3dC+RhdvOP/H5n6J0bSEb3bU1MO8gY=
             type: binary
-            url: https://nodejs.org/download/release/v26.2.0/node-v26.2.0-linux-x64.tar.gz
+            url: https://nodejs.org/download/release/v26.3.0/node-v26.3.0-linux-x64.tar.gz
           targets:
             - cpu: x64
               os: linux
@@ -1616,10 +1616,10 @@ packages:
             archive: zip
             bin:
               node: node.exe
-            integrity: sha256-Ex76i9hY+K0AChoENti7EyDGOCkcd5qSH7IOVwKhzAo=
-            prefix: node-v26.2.0-win-arm64
+            integrity: sha256-GMUBRyLh3r2z5pNQEEOgh0hebxJ3sgx5xeyGvOYCfuA=
+            prefix: node-v26.3.0-win-arm64
             type: binary
-            url: https://nodejs.org/download/release/v26.2.0/node-v26.2.0-win-arm64.zip
+            url: https://nodejs.org/download/release/v26.3.0/node-v26.3.0-win-arm64.zip
           targets:
             - cpu: arm64
               os: win32
@@ -1627,10 +1627,10 @@ packages:
             archive: zip
             bin:
               node: node.exe
-            integrity: sha256-NxBxpPfiyKXdKAcwBJxoWRH+7MWfUOvEiNZ13BCHxpw=
-            prefix: node-v26.2.0-win-x64
+            integrity: sha256-7G0PawVsiUmKmybE1cd6Mf0Lf+RbqKRfqH0m9mw+vOQ=
+            prefix: node-v26.3.0-win-x64
             type: binary
-            url: https://nodejs.org/download/release/v26.2.0/node-v26.2.0-win-x64.zip
+            url: https://nodejs.org/download/release/v26.3.0/node-v26.3.0-win-x64.zip
           targets:
             - cpu: x64
               os: win32
@@ -1638,9 +1638,9 @@ packages:
             archive: tarball
             bin:
               node: bin/node
-            integrity: sha256-RZPYIgEv4yOIFHIZCUCMZvKoKVXgFBRXZDp6TIThMv0=
+            integrity: sha256-JIf/TwPb2JmKN3iIbVDB7l8To7nO+/o67QLDLb8eH7g=
             type: binary
-            url: https://unofficial-builds.nodejs.org/download/release/v26.2.0/node-v26.2.0-linux-arm64-musl.tar.gz
+            url: https://unofficial-builds.nodejs.org/download/release/v26.3.0/node-v26.3.0-linux-arm64-musl.tar.gz
           targets:
             - cpu: arm64
               os: linux
@@ -1649,14 +1649,14 @@ packages:
             archive: tarball
             bin:
               node: bin/node
-            integrity: sha256-nvyZMy4c9w7rhWGDmEZ8nTObwgi+ZRFTgMYR3aTChAc=
+            integrity: sha256-atLnwM9pP+zC/rsav3U5QCRPO6qgRiY2HtUtZIQ//Gc=
             type: binary
-            url: https://unofficial-builds.nodejs.org/download/release/v26.2.0/node-v26.2.0-linux-x64-musl.tar.gz
+            url: https://unofficial-builds.nodejs.org/download/release/v26.3.0/node-v26.3.0-linux-x64-musl.tar.gz
           targets:
             - cpu: x64
               os: linux
               libc: musl
-    version: 26.2.0
+    version: 26.3.0
     hasBin: true
 
   normalize-package-data@6.0.2:
@@ -1688,8 +1688,8 @@ packages:
     resolution: {integrity: sha512-9qny7Z9DsQU8Ou39ERsPU4OZQlSTP47ShQzuKZ6PRXpYLtIFgl/DEBYEXKlvcEa+9tHVcK8CF81Y2V72qaZhWA==}
     engines: {node: '>=18'}
 
-  npm@11.16.0:
-    resolution: {integrity: sha512-A74XL8OxmcegZDMWPkWb5bEQppg8HdYwW3rBD2sPoS4UQHVajfaxBkqyzLeJ3wR0kZ+5xoTjItxXaF7eIXUsyw==}
+  npm@11.17.0:
+    resolution: {integrity: sha512-PurxiZexEHDTE4SSaLI3ZrnbAGiZfeyUcQcxcP5D+hfytNAze/D1IzDuInTn9XVLIbAQUnQuSPXJx02LHjLvQw==}
     engines: {node: ^20.17.0 || >=22.9.0}
     hasBin: true
     bundledDependencies:
@@ -1901,8 +1901,8 @@ packages:
     resolution: {integrity: sha512-QP88BAKvMam/3NxH6vj2o21R6MjxZUAd6nlwAS/pnGvN9IVLocLHxGYIzFhg6fUQ+5th6P4dv4eW9jX3DSIj7A==}
     engines: {node: '>=12'}
 
-  pidtree@0.6.0:
-    resolution: {integrity: sha512-eG2dWTVw5bzqGRztnHExczNxt5VGsE6OwTeCG3fdUf9KBsZzO3R5OIIIzWR+iZA0NtZ+RDVdaoE2dK1cn6jH4g==}
+  pidtree@0.6.1:
+    resolution: {integrity: sha512-e0F9AOF1JMrCfBsyJOwU9lNvQ0WtXTq0j/4jk0BQ5JSI9VAybPXmDpPRw/2FQ3e5d3ZFN1mLh7jW99m/jjaptw==}
     engines: {node: '>=0.10'}
     hasBin: true
 
@@ -1923,6 +1923,15 @@ packages:
 
   proto-list@1.2.4:
     resolution: {integrity: sha512-vtK/94akxsTMhe0/cbfpR+syPuszcuwhqVjJq26CuNDgFGj682oRBXOP5MJpv2r7JtE8MsiepGIqvvOTBwn2vA==}
+
+  proxy-agent-negotiate@1.1.0:
+    resolution: {integrity: sha512-N8IBcM3UgCVzz2L2Lqv8DVntDnnC8/hiV4nEDUPkqq72TPUgYWjQc+bdZlBPZK9LzPAvOY//gAt0S0DApoOXWQ==}
+    engines: {node: '>= 20'}
+    peerDependencies:
+      kerberos: ^2.0.0
+    peerDependenciesMeta:
+      kerberos:
+        optional: true
 
   proxy-from-env@2.1.0:
     resolution: {integrity: sha512-cJ+oHTW1VAEa8cJslgmUZrc+sjRKgAKl3Zyse6+PV38hZe/V6Z14TbCuXcan9F9ghlz4QrFr2c92TNF82UkYHA==}
@@ -1996,8 +2005,8 @@ packages:
     resolution: {integrity: sha512-hunMQrEy1T6Jr2uEVjrAIqjwWcQTgOAcIM52C8MY1EZSD3DDNft04XzvYKPqjED65bNVVko0YI38nYeEHCX3yw==}
     engines: {node: '>=12'}
 
-  semver@7.8.1:
-    resolution: {integrity: sha512-rkVq3IXh+4FDGch+KwzX3aV9W3kO54GyEgpvBzSyctDA6Xtd7RJQV1xmXbeQp5v7+VzLOfVqiutSE6GICgPFvg==}
+  semver@7.8.4:
+    resolution: {integrity: sha512-rUCObTnP32Q08R2uuIrt7r9PlEonuTmtuXYcW6s5kjdlj3xbnwe+21yXptAUYcMAABLkYYTtnmzb3w3EDZfueA==}
     engines: {node: '>=10'}
     hasBin: true
 
@@ -2189,8 +2198,8 @@ packages:
     resolution: {integrity: sha512-TeTSQ6H5YHvpqVwBRcnLDCBnDOHWYu7IvGbHT6N8AOymcr9PJGjc1GTtiWZTYg0NCgYwvnYWEkVChQAr9bjfwA==}
     engines: {node: '>=16'}
 
-  type-fest@5.6.0:
-    resolution: {integrity: sha512-8ZiHFm91orbSAe2PSAiSVBVko18pbhbiB3U9GglSzF/zCGkR+rxpHx6sEMCUm4kxY4LjDIUGgCfUMtwfZfjfUA==}
+  type-fest@5.7.0:
+    resolution: {integrity: sha512-1URUxUqfHFM1c+zfSPsa3gnkO7Aq21qyH75SIduNYz4SzY964rn1X2vCMQaHSHhktiw+0kPa2iyb6PUpXqB6Vg==}
     engines: {node: '>=20'}
 
   types-ramda@0.30.1:
@@ -2213,8 +2222,8 @@ packages:
     resolution: {integrity: sha512-4yqz8a3n5HmGTlsbADNtr/dJlhkh/55Rq798G6ibiULcXbDtaLpTl1pvdqcbFfeoj3iSi52lePFM7h9H21cw/A==}
     engines: {node: '>=18.17'}
 
-  undici@7.26.0:
-    resolution: {integrity: sha512-3O9Tf67pGhgOv9jM35AbhkXAKi13f3oy3aE4CSgr+TckGeY+/iu97ZXN+J7DpHPzLbVApFd1IFhcnBjREYXYcg==}
+  undici@7.27.2:
+    resolution: {integrity: sha512-uZsKNuzQxDMUY6M3pIMvy5tvlGmtq8XJ2oLAkfRKGNu+1VQAIvLy2xIVG5ATZl5wDXl/tddByAWCizRbOme+TA==}
     engines: {node: '>=20.18.1'}
 
   unicode-emoji-modifier-base@1.0.0:
@@ -2257,18 +2266,15 @@ packages:
   validate-npm-package-license@3.0.4:
     resolution: {integrity: sha512-DpKm2Ui/xN7/HQKCtpZxoRWBhZ9Z0kqtygG8XCgNQ8ZlDnxuQmWhj566j8fN4Cu3/JmbhsDo7fcAJq4s9h27Ew==}
 
-  vscode-jsonrpc@8.2.0:
-    resolution: {integrity: sha512-C+r0eKJUIfiDIfwJhria30+TYWPtuHJXHtI7J0YlOmKAo7ogxP20T0zxB7HZQIFhIyvoBPwWskjxrvAtfjyZfA==}
+  vscode-jsonrpc@9.0.0:
+    resolution: {integrity: sha512-+VvMmQPJhtvJ+8O+zu2JKIRiLxXF8NW7krWgyMGeOHrp4Cn23T5hc0v2LknNeopDOB70wghHAds7mKtcZ0I4Sg==}
     engines: {node: '>=14.0.0'}
 
-  vscode-languageserver-protocol@3.17.5:
-    resolution: {integrity: sha512-mb1bvRJN8SVznADSGWM9u/b07H7Ecg0I3OgXDuLdn307rl/J3A9YD6/eYOssqhecL27hK1IPZAsaqh00i/Jljg==}
+  vscode-languageserver-protocol@3.18.0:
+    resolution: {integrity: sha512-Zdz+kJ12Iz6tc11xfZyEo501bBATHXrCjmMfnaR3pMnf1CoqZBKIynba3P+/bi9VEdrMbNtAVKYpKhbODvqy+Q==}
 
   vscode-languageserver-textdocument@1.0.12:
     resolution: {integrity: sha512-cxWNPesCnQCcMPeenjKKsOCKQZ/L6Tv19DTRIGuLWe32lyzWhihGVJ/rcckZXJxfdKCFvRLS3fpBIsV/ZGX4zA==}
-
-  vscode-languageserver-types@3.17.5:
-    resolution: {integrity: sha512-Ld1VelNuX9pdF39h2Hgaeb5hEZM2Z3jUrrMgWQAu82jMtZp7p3vJT3BzToKtZI7NgQssZje5o0zryOrhQvzQAg==}
 
   vscode-languageserver-types@3.18.0:
     resolution: {integrity: sha512-8TsGPNMIMiiBdkORgRSvLjuiEIiAFtO+KssmYWxQ+uSVvlf7RjK8YKCOjPzZ+YA04jXEV7+7LvkSmHkhpNS99g==}
@@ -2571,7 +2577,7 @@ snapshots:
     dependencies:
       graceful-fs: 4.2.10
 
-  '@pnpm/npm-conf@3.0.2':
+  '@pnpm/npm-conf@3.0.3':
     dependencies:
       '@pnpm/config.env-replace': 1.1.0
       '@pnpm/network.ca-file': 1.0.2
@@ -2617,17 +2623,18 @@ snapshots:
       aggregate-error: 5.0.0
       debug: 4.4.3
       dir-glob: 3.0.1
-      http-proxy-agent: 9.0.0
-      https-proxy-agent: 9.0.0
+      http-proxy-agent: 9.1.0
+      https-proxy-agent: 9.1.0
       issue-parser: 7.0.2
       lodash-es: 4.18.1
       mime: 4.1.0
       p-filter: 4.1.0
       semantic-release: 25.0.5(typescript@6.0.3)
       tinyglobby: 0.2.17
-      undici: 7.26.0
+      undici: 7.27.2
       url-join: 5.0.0
     transitivePeerDependencies:
+      - kerberos
       - supports-color
 
   '@semantic-release/npm@13.1.5(semantic-release@25.0.5(typescript@6.0.3))':
@@ -2641,12 +2648,12 @@ snapshots:
       lodash-es: 4.18.1
       nerf-dart: 1.0.0
       normalize-url: 9.0.1
-      npm: 11.16.0
+      npm: 11.17.0
       rc: 1.2.8
       read-pkg: 10.1.0
       registry-auth-token: 5.1.1
       semantic-release: 25.0.5(typescript@6.0.3)
-      semver: 7.8.1
+      semver: 7.8.4
       tempy: 3.2.0
 
   '@semantic-release/release-notes-generator@14.1.1(semantic-release@25.0.5(typescript@6.0.3))':
@@ -2744,9 +2751,9 @@ snapshots:
       ramda: 0.30.1
       ramda-adjunct: 5.1.0(ramda@0.30.1)
       temporal-polyfill: 0.3.2
-      vscode-languageserver-protocol: 3.17.5
+      vscode-languageserver-protocol: 3.18.0
       vscode-languageserver-textdocument: 1.0.12
-      vscode-languageserver-types: 3.17.5
+      vscode-languageserver-types: 3.18.0
     optionalDependencies:
       ajv: 8.20.0
       ajv-errors: 3.0.0(ajv@8.20.0)
@@ -3105,7 +3112,7 @@ snapshots:
       '@swagger-api/apidom-core': 1.11.2
       '@swagger-api/apidom-error': 1.11.2
       '@types/ramda': 0.30.2
-      axios: 1.16.1
+      axios: 1.17.0
       minimatch: 10.2.5
       ramda: 0.30.1
       ramda-adjunct: 5.1.0(ramda@0.30.1)
@@ -3228,10 +3235,10 @@ snapshots:
 
   asynckit@0.4.0: {}
 
-  axios@1.16.1:
+  axios@1.17.0:
     dependencies:
       follow-redirects: 1.16.0
-      form-data: 4.0.5
+      form-data: 4.0.6
       https-proxy-agent: 5.0.1
       proxy-from-env: 2.1.0
     transitivePeerDependencies:
@@ -3347,7 +3354,7 @@ snapshots:
       conventional-commits-filter: 5.0.0
       handlebars: 4.7.9
       meow: 13.2.0
-      semver: 7.8.1
+      semver: 7.8.4
 
   conventional-commits-filter@5.0.0: {}
 
@@ -3362,11 +3369,11 @@ snapshots:
 
   core-util-is@1.0.3: {}
 
-  cosmiconfig@9.0.1(typescript@6.0.3):
+  cosmiconfig@9.0.2(typescript@6.0.3):
     dependencies:
       env-paths: 2.2.1
       import-fresh: 3.3.1
-      js-yaml: 4.1.1
+      js-yaml: 4.2.0
       parse-json: 5.2.0
     optionalDependencies:
       typescript: 6.0.3
@@ -3509,7 +3516,7 @@ snapshots:
 
   follow-redirects@1.16.0: {}
 
-  form-data@4.0.5:
+  form-data@4.0.6:
     dependencies:
       asynckit: 0.4.0
       combined-stream: 1.0.8
@@ -3608,11 +3615,13 @@ snapshots:
     dependencies:
       lru-cache: 11.5.1
 
-  http-proxy-agent@9.0.0:
+  http-proxy-agent@9.1.0:
     dependencies:
       agent-base: 9.0.0
       debug: 4.4.3
+      proxy-agent-negotiate: 1.1.0
     transitivePeerDependencies:
+      - kerberos
       - supports-color
 
   https-proxy-agent@5.0.1:
@@ -3622,11 +3631,13 @@ snapshots:
     transitivePeerDependencies:
       - supports-color
 
-  https-proxy-agent@9.0.0:
+  https-proxy-agent@9.1.0:
     dependencies:
       agent-base: 9.0.0
       debug: 4.4.3
+      proxy-agent-negotiate: 1.1.0
     transitivePeerDependencies:
+      - kerberos
       - supports-color
 
   human-signals@5.0.0: {}
@@ -3691,7 +3702,7 @@ snapshots:
 
   js-tokens@4.0.0: {}
 
-  js-yaml@4.1.1:
+  js-yaml@4.2.0:
     dependencies:
       argparse: 2.0.1
 
@@ -3830,18 +3841,18 @@ snapshots:
 
   node-gyp-build@4.8.4: {}
 
-  node@runtime:26.2.0: {}
+  node@runtime:26.3.0: {}
 
   normalize-package-data@6.0.2:
     dependencies:
       hosted-git-info: 7.0.2
-      semver: 7.8.1
+      semver: 7.8.4
       validate-npm-package-license: 3.0.4
 
   normalize-package-data@8.0.0:
     dependencies:
       hosted-git-info: 9.0.3
-      semver: 7.8.1
+      semver: 7.8.4
       validate-npm-package-license: 3.0.4
 
   normalize-url@9.0.1: {}
@@ -3854,7 +3865,7 @@ snapshots:
       cross-spawn: 7.0.6
       memorystream: 0.3.1
       picomatch: 4.0.4
-      pidtree: 0.6.0
+      pidtree: 0.6.1
       read-package-json-fast: 6.0.0
       shell-quote: 1.8.4
       which: 7.0.0
@@ -3868,7 +3879,7 @@ snapshots:
       path-key: 4.0.0
       unicorn-magic: 0.3.0
 
-  npm@11.16.0: {}
+  npm@11.17.0: {}
 
   object-assign@4.1.1: {}
 
@@ -4012,7 +4023,7 @@ snapshots:
 
   picomatch@4.0.4: {}
 
-  pidtree@0.6.0: {}
+  pidtree@0.6.1: {}
 
   pify@3.0.0: {}
 
@@ -4028,6 +4039,8 @@ snapshots:
   process-nextick-args@2.0.1: {}
 
   proto-list@1.2.4: {}
+
+  proxy-agent-negotiate@1.1.0: {}
 
   proxy-from-env@2.1.0: {}
 
@@ -4059,14 +4072,14 @@ snapshots:
     dependencies:
       find-up-simple: 1.0.1
       read-pkg: 10.1.0
-      type-fest: 5.6.0
+      type-fest: 5.7.0
 
   read-pkg@10.1.0:
     dependencies:
       '@types/normalize-package-data': 2.4.4
       normalize-package-data: 8.0.0
       parse-json: 8.3.0
-      type-fest: 5.6.0
+      type-fest: 5.7.0
       unicorn-magic: 0.4.0
 
   read-pkg@9.0.1:
@@ -4089,7 +4102,7 @@ snapshots:
 
   registry-auth-token@5.1.1:
     dependencies:
-      '@pnpm/npm-conf': 3.0.2
+      '@pnpm/npm-conf': 3.0.3
 
   require-directory@2.1.1: {}
 
@@ -4110,7 +4123,7 @@ snapshots:
       '@semantic-release/npm': 13.1.5(semantic-release@25.0.5(typescript@6.0.3))
       '@semantic-release/release-notes-generator': 14.1.1(semantic-release@25.0.5(typescript@6.0.3))
       aggregate-error: 5.0.0
-      cosmiconfig: 9.0.1(typescript@6.0.3)
+      cosmiconfig: 9.0.2(typescript@6.0.3)
       debug: 4.4.3
       env-ci: 11.2.0
       execa: 9.6.1
@@ -4129,16 +4142,17 @@ snapshots:
       p-reduce: 3.0.0
       read-package-up: 12.0.0
       resolve-from: 5.0.0
-      semver: 7.8.1
+      semver: 7.8.4
       signale: 1.4.0
       yargs: 18.0.0
     transitivePeerDependencies:
+      - kerberos
       - supports-color
       - typescript
 
   semver-regex@4.0.5: {}
 
-  semver@7.8.1: {}
+  semver@7.8.4: {}
 
   shebang-command@2.0.0:
     dependencies:
@@ -4316,7 +4330,7 @@ snapshots:
 
   type-fest@4.41.0: {}
 
-  type-fest@5.6.0:
+  type-fest@5.7.0:
     dependencies:
       tagged-tag: 1.0.0
 
@@ -4333,7 +4347,7 @@ snapshots:
 
   undici@6.26.0: {}
 
-  undici@7.26.0: {}
+  undici@7.27.2: {}
 
   unicode-emoji-modifier-base@1.0.0: {}
 
@@ -4362,16 +4376,14 @@ snapshots:
       spdx-correct: 3.2.0
       spdx-expression-parse: 3.0.1
 
-  vscode-jsonrpc@8.2.0: {}
+  vscode-jsonrpc@9.0.0: {}
 
-  vscode-languageserver-protocol@3.17.5:
+  vscode-languageserver-protocol@3.18.0:
     dependencies:
-      vscode-jsonrpc: 8.2.0
-      vscode-languageserver-types: 3.17.5
+      vscode-jsonrpc: 9.0.0
+      vscode-languageserver-types: 3.18.0
 
   vscode-languageserver-textdocument@1.0.12: {}
-
-  vscode-languageserver-types@3.17.5: {}
 
   vscode-languageserver-types@3.18.0: {}
 
