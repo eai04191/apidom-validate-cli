@@ -231,7 +231,7 @@ importers:
         version: 24.13.2
       node:
         specifier: runtime:26
-        version: runtime:26.3.1
+        version: runtime:26.4.0
       npm-run-all2:
         specifier: 9.0.2
         version: 9.0.2
@@ -897,8 +897,8 @@ packages:
   asynckit@0.4.0:
     resolution: {integrity: sha512-Oei9OH4tRh0YqU3GxhX79dM/mwVgvbZJaSNaRk+bshkj0S5cfHcgYakreBjrHwatXKbz+IoIdYLxrKim2MjW0Q==}
 
-  axios@1.18.0:
-    resolution: {integrity: sha512-E32NzpYKp++W7XRe52rHiXV2ehxmh3wbdgO7MHeFM+vqxLBYHzt0ElkiImtOBxtOmyp0yoC8C6uESVV84Y2/hw==}
+  axios@1.18.1:
+    resolution: {integrity: sha512-3nTvFlvpn9Zu/RkHUqtc7/+al4UpRW5az71ap5zccp6e8RAYEzhMTecX8Dz1wWDYrPpUoB1HAQEGEAEvUr7S9g==}
 
   balanced-match@4.0.4:
     resolution: {integrity: sha512-BLrgEcRTwX2o6gGxGOCNyMvGSp35YofuYzw9h1IMTRmKqttAZZVU67bdb9Pr2vUHA8+j3i2tJfjO6C6+4myGTA==}
@@ -1378,8 +1378,8 @@ packages:
   js-tokens@4.0.0:
     resolution: {integrity: sha512-RdJUflcE3cUzKiMqQgsCu06FPu9UdIJO0beYbPhHN4k6apgJtifcoCtT9bcxOpYBtpD2kCM6Sbzg4CausW/PKQ==}
 
-  js-yaml@4.2.0:
-    resolution: {integrity: sha512-ePWsvanv0DWuDRsW8dnt+R4jQ31SCRCQ7hhNcPXZPsoBZiemuZNYGf7adZdqX2D86j6rvKp3RpCxVTSb8WQlOw==}
+  js-yaml@4.3.0:
+    resolution: {integrity: sha512-1td788aAnnZ5qs7V2QIRl1owjtYpbKt749Y3xauqQgwIIGF/xXWz1wMTEBx5O3LK3lXLVuqXPdPxj2BoFHaW9Q==}
     hasBin: true
 
   jsep@1.4.0:
@@ -1526,8 +1526,8 @@ packages:
   nerf-dart@1.0.0:
     resolution: {integrity: sha512-EZSPZB70jiVsivaBLYDCyntd5eH8NTSMOn3rB+HxwdmKThGELLdYv8qVIMWvZEFy9w8ZZpW9h9OB32l1rGtj7g==}
 
-  node-addon-api@8.8.0:
-    resolution: {integrity: sha512-c5Ko1fZJIJmzhFIkhRN76WTq+fC6tWnGy9CXA0fA+XygsWZmEwG8vmbkNqxMyoaa0Tin4djul49NzdVcJJcjeA==}
+  node-addon-api@8.9.0:
+    resolution: {integrity: sha512-ekZMeaaIzSQTSpr7X2X3iJM7lTzgnx8ahAG9pJfT/7+14mlEM8ZYQ9cgCDvSSRbReFK0oHli3WrZdCiRsgAT9Q==}
     engines: {node: ^18 || ^20 || >= 21}
 
   node-emoji@2.2.0:
@@ -1538,7 +1538,7 @@ packages:
     resolution: {integrity: sha512-LA4ZjwlnUblHVgq0oBF3Jl/6h/Nvs5fzBLwdEF4nuxnFdsfajde4WfxtJr3CaiH+F6ewcIB/q4jQ4UzPyid+CQ==}
     hasBin: true
 
-  node@runtime:26.3.1:
+  node@runtime:26.4.0:
     resolution:
       type: variations
       variants:
@@ -1546,9 +1546,9 @@ packages:
             archive: tarball
             bin:
               node: bin/node
-            integrity: sha256-jA73RlsXwx1r+uqE1bjWKUS1Q9zS30KTOqC/9HcevFw=
+            integrity: sha256-YCabfi8hTrVGvdyXbUDbpij2PuRASI68JZSr/AaHMlg=
             type: binary
-            url: https://nodejs.org/download/release/v26.3.1/node-v26.3.1-aix-ppc64.tar.gz
+            url: https://nodejs.org/download/release/v26.4.0/node-v26.4.0-aix-ppc64.tar.gz
           targets:
             - cpu: ppc64
               os: aix
@@ -1556,9 +1556,9 @@ packages:
             archive: tarball
             bin:
               node: bin/node
-            integrity: sha256-P2JKsNd0VTwNKLlo4UHYxnajWigR+wt7NWupy9zhX3Q=
+            integrity: sha256-T0+8rPax/xqV3u26e9ey157+yqU6jssFMFRtyQY/77w=
             type: binary
-            url: https://nodejs.org/download/release/v26.3.1/node-v26.3.1-darwin-arm64.tar.gz
+            url: https://nodejs.org/download/release/v26.4.0/node-v26.4.0-darwin-arm64.tar.gz
           targets:
             - cpu: arm64
               os: darwin
@@ -1566,9 +1566,9 @@ packages:
             archive: tarball
             bin:
               node: bin/node
-            integrity: sha256-PsnlooxkHAiPPQStOHIb/e2y+KqMAxl5+pPfCLWpLlg=
+            integrity: sha256-6zvdjew/8lWO4Q4oTafSo4Za8MvaIfBtOXsCZYN8ZB4=
             type: binary
-            url: https://nodejs.org/download/release/v26.3.1/node-v26.3.1-darwin-x64.tar.gz
+            url: https://nodejs.org/download/release/v26.4.0/node-v26.4.0-darwin-x64.tar.gz
           targets:
             - cpu: x64
               os: darwin
@@ -1576,9 +1576,9 @@ packages:
             archive: tarball
             bin:
               node: bin/node
-            integrity: sha256-LwgpsgHp2yCZauFbzmITjfHj0xd3WwBXeLBc97GXFPE=
+            integrity: sha256-dz2exnJmg4Jw3cEFwlSK6Kr/KLyP5vNMVdEJQEPEFl4=
             type: binary
-            url: https://nodejs.org/download/release/v26.3.1/node-v26.3.1-linux-arm64.tar.gz
+            url: https://nodejs.org/download/release/v26.4.0/node-v26.4.0-linux-arm64.tar.gz
           targets:
             - cpu: arm64
               os: linux
@@ -1586,9 +1586,9 @@ packages:
             archive: tarball
             bin:
               node: bin/node
-            integrity: sha256-J21ywAtM/t87xFvebRvQoY6MhG7RUKU4HFKBEvoMyr0=
+            integrity: sha256-1VA2YFj7KareEY/gVS8vrcaU2p6mOq30pz1qUjOY4Tk=
             type: binary
-            url: https://nodejs.org/download/release/v26.3.1/node-v26.3.1-linux-ppc64le.tar.gz
+            url: https://nodejs.org/download/release/v26.4.0/node-v26.4.0-linux-ppc64le.tar.gz
           targets:
             - cpu: ppc64le
               os: linux
@@ -1596,9 +1596,9 @@ packages:
             archive: tarball
             bin:
               node: bin/node
-            integrity: sha256-dA01r/4gaD0kTklODMlxCpHBxgOf/dDtn30RDJmL0jw=
+            integrity: sha256-cOvQM8UPkIO+U9igWDwhUEnGMhIIeDXacZw8BszkEXs=
             type: binary
-            url: https://nodejs.org/download/release/v26.3.1/node-v26.3.1-linux-s390x.tar.gz
+            url: https://nodejs.org/download/release/v26.4.0/node-v26.4.0-linux-s390x.tar.gz
           targets:
             - cpu: s390x
               os: linux
@@ -1606,9 +1606,9 @@ packages:
             archive: tarball
             bin:
               node: bin/node
-            integrity: sha256-6JLNYV5jft688i+WU9gPumMWetZ1TSCIH9Usw3voFEE=
+            integrity: sha256-8iHasw0OnVRDMvBvvuLGIYbJfYZNXKyEgtujTx44uNw=
             type: binary
-            url: https://nodejs.org/download/release/v26.3.1/node-v26.3.1-linux-x64.tar.gz
+            url: https://nodejs.org/download/release/v26.4.0/node-v26.4.0-linux-x64.tar.gz
           targets:
             - cpu: x64
               os: linux
@@ -1616,10 +1616,10 @@ packages:
             archive: zip
             bin:
               node: node.exe
-            integrity: sha256-Ah633h1SV7JHZfKS38tGn/FSjCnYj0jIdb77KBFPsPs=
-            prefix: node-v26.3.1-win-arm64
+            integrity: sha256-OUy3LmZPqqUYyhh3vMILsDo+L1HtH2z85T4aMG6Ml/Y=
+            prefix: node-v26.4.0-win-arm64
             type: binary
-            url: https://nodejs.org/download/release/v26.3.1/node-v26.3.1-win-arm64.zip
+            url: https://nodejs.org/download/release/v26.4.0/node-v26.4.0-win-arm64.zip
           targets:
             - cpu: arm64
               os: win32
@@ -1627,10 +1627,10 @@ packages:
             archive: zip
             bin:
               node: node.exe
-            integrity: sha256-RQAbKJ6//nsiJgiY83UAWRg9gkYEK4jo/6QzfmXmdj4=
-            prefix: node-v26.3.1-win-x64
+            integrity: sha256-X4fQOMbsRCqka5Em+MoXCsvS87m5FSynmM9UWWox4hQ=
+            prefix: node-v26.4.0-win-x64
             type: binary
-            url: https://nodejs.org/download/release/v26.3.1/node-v26.3.1-win-x64.zip
+            url: https://nodejs.org/download/release/v26.4.0/node-v26.4.0-win-x64.zip
           targets:
             - cpu: x64
               os: win32
@@ -1638,9 +1638,9 @@ packages:
             archive: tarball
             bin:
               node: bin/node
-            integrity: sha256-6dMaWekWStS+R+MUj8VJZKnCdTlPNn4Sfu0aCzAJxwY=
+            integrity: sha256-0q2Mbp+pVe3wM3B4wdGs2jRdNqhJhrIYzOPP0dLSaSA=
             type: binary
-            url: https://unofficial-builds.nodejs.org/download/release/v26.3.1/node-v26.3.1-linux-arm64-musl.tar.gz
+            url: https://unofficial-builds.nodejs.org/download/release/v26.4.0/node-v26.4.0-linux-arm64-musl.tar.gz
           targets:
             - cpu: arm64
               os: linux
@@ -1649,14 +1649,14 @@ packages:
             archive: tarball
             bin:
               node: bin/node
-            integrity: sha256-TRp768wO4lNO3C1fk8rTRDXtS2AXZtJrcGwENyfUzKU=
+            integrity: sha256-VU6WD2VwvT0Zh/UXDY8qNzohgYWBqNMHtpfng5mIMUo=
             type: binary
-            url: https://unofficial-builds.nodejs.org/download/release/v26.3.1/node-v26.3.1-linux-x64-musl.tar.gz
+            url: https://unofficial-builds.nodejs.org/download/release/v26.4.0/node-v26.4.0-linux-x64-musl.tar.gz
           targets:
             - cpu: x64
               os: linux
               libc: musl
-    version: 26.3.1
+    version: 26.4.0
     hasBin: true
 
   normalize-package-data@6.0.2:
@@ -2018,8 +2018,8 @@ packages:
     resolution: {integrity: sha512-7++dFhtcx3353uBaq8DDR4NuxBetBzC7ZQOhmTQInHEd6bSrXdiEyzCvG07Z44UYdLShWUyXt5M/yhz8ekcb1A==}
     engines: {node: '>=8'}
 
-  shell-quote@1.8.4:
-    resolution: {integrity: sha512-VsC6n6vz1ihYYyZZwX7YZSF5l5x36ca17OC+a69h94YqB7X6XLwf+5MOgynYir2SLFUbl8gIYvBo8K8RoNQ6bQ==}
+  shell-quote@1.9.0:
+    resolution: {integrity: sha512-Iov+JwFv/2HcTpcwNMKd8+IWNb8tboQJNQTkAY/LLVK7gGH9jy+LGkVqPxfekHl+yMmiqXszdGWXgkfml7hjqA==}
     engines: {node: '>= 0.4'}
 
   short-unique-id@5.3.2:
@@ -2270,8 +2270,8 @@ packages:
     resolution: {integrity: sha512-+VvMmQPJhtvJ+8O+zu2JKIRiLxXF8NW7krWgyMGeOHrp4Cn23T5hc0v2LknNeopDOB70wghHAds7mKtcZ0I4Sg==}
     engines: {node: '>=14.0.0'}
 
-  vscode-languageserver-protocol@3.18.0:
-    resolution: {integrity: sha512-Zdz+kJ12Iz6tc11xfZyEo501bBATHXrCjmMfnaR3pMnf1CoqZBKIynba3P+/bi9VEdrMbNtAVKYpKhbODvqy+Q==}
+  vscode-languageserver-protocol@3.18.1:
+    resolution: {integrity: sha512-RTiiVHdpxpYcJVI5sq6S5TLjQ4WDR/rBrIWru+kPXe6sGQ9PFQ3GamrTKLvPqbR4ylr1SoodhmcqbFII0WXVuw==}
 
   vscode-languageserver-textdocument@1.0.12:
     resolution: {integrity: sha512-cxWNPesCnQCcMPeenjKKsOCKQZ/L6Tv19DTRIGuLWe32lyzWhihGVJ/rcckZXJxfdKCFvRLS3fpBIsV/ZGX4zA==}
@@ -2751,7 +2751,7 @@ snapshots:
       ramda: 0.30.1
       ramda-adjunct: 5.1.0(ramda@0.30.1)
       temporal-polyfill: 0.3.2
-      vscode-languageserver-protocol: 3.18.0
+      vscode-languageserver-protocol: 3.18.1
       vscode-languageserver-textdocument: 1.0.12
       vscode-languageserver-types: 3.18.0
     optionalDependencies:
@@ -3112,7 +3112,7 @@ snapshots:
       '@swagger-api/apidom-core': 1.11.3
       '@swagger-api/apidom-error': 1.11.3
       '@types/ramda': 0.30.2
-      axios: 1.18.0
+      axios: 1.18.1
       minimatch: 10.2.5
       ramda: 0.30.1
       ramda-adjunct: 5.1.0(ramda@0.30.1)
@@ -3152,7 +3152,7 @@ snapshots:
 
   '@tree-sitter-grammars/tree-sitter-yaml@0.7.1(tree-sitter@0.22.4)':
     dependencies:
-      node-addon-api: 8.8.0
+      node-addon-api: 8.9.0
       node-gyp-build: 4.8.4
     optionalDependencies:
       tree-sitter: 0.22.4
@@ -3235,7 +3235,7 @@ snapshots:
 
   asynckit@0.4.0: {}
 
-  axios@1.18.0:
+  axios@1.18.1:
     dependencies:
       follow-redirects: 1.16.0
       form-data: 4.0.6
@@ -3373,7 +3373,7 @@ snapshots:
     dependencies:
       env-paths: 2.2.1
       import-fresh: 3.3.1
-      js-yaml: 4.2.0
+      js-yaml: 4.3.0
       parse-json: 5.2.0
     optionalDependencies:
       typescript: 6.0.3
@@ -3702,7 +3702,7 @@ snapshots:
 
   js-tokens@4.0.0: {}
 
-  js-yaml@4.2.0:
+  js-yaml@4.3.0:
     dependencies:
       argparse: 2.0.1
 
@@ -3830,7 +3830,7 @@ snapshots:
 
   nerf-dart@1.0.0: {}
 
-  node-addon-api@8.8.0: {}
+  node-addon-api@8.9.0: {}
 
   node-emoji@2.2.0:
     dependencies:
@@ -3841,7 +3841,7 @@ snapshots:
 
   node-gyp-build@4.8.4: {}
 
-  node@runtime:26.3.1: {}
+  node@runtime:26.4.0: {}
 
   normalize-package-data@6.0.2:
     dependencies:
@@ -3867,7 +3867,7 @@ snapshots:
       picomatch: 4.0.4
       pidtree: 1.0.0
       read-package-json-fast: 6.0.0
-      shell-quote: 1.8.4
+      shell-quote: 1.9.0
       which: 7.0.0
 
   npm-run-path@5.3.0:
@@ -4160,7 +4160,7 @@ snapshots:
 
   shebang-regex@3.0.0: {}
 
-  shell-quote@1.8.4: {}
+  shell-quote@1.9.0: {}
 
   short-unique-id@5.3.2: {}
 
@@ -4303,19 +4303,19 @@ snapshots:
 
   tree-sitter-json@0.24.8(tree-sitter@0.21.1):
     dependencies:
-      node-addon-api: 8.8.0
+      node-addon-api: 8.9.0
       node-gyp-build: 4.8.4
     optionalDependencies:
       tree-sitter: 0.21.1
 
   tree-sitter@0.21.1:
     dependencies:
-      node-addon-api: 8.8.0
+      node-addon-api: 8.9.0
       node-gyp-build: 4.8.4
 
   tree-sitter@0.22.4:
     dependencies:
-      node-addon-api: 8.8.0
+      node-addon-api: 8.9.0
       node-gyp-build: 4.8.4
 
   ts-mixer@6.0.4: {}
@@ -4378,7 +4378,7 @@ snapshots:
 
   vscode-jsonrpc@9.0.0: {}
 
-  vscode-languageserver-protocol@3.18.0:
+  vscode-languageserver-protocol@3.18.1:
     dependencies:
       vscode-jsonrpc: 9.0.0
       vscode-languageserver-types: 3.18.0
