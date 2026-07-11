@@ -51,7 +51,7 @@
         "oxlint-config-presets": "0.1.16",
         "oxlint-tsgolint": "0.24.0",
         "semantic-release": "25.0.5",
-        "typescript": "6.0.3",
+        "typescript": "7.0.2",
         "vscode-languageserver-types": "3.18.0"
     },
     "devEngines": {
