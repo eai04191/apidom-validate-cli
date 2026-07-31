@@ -47,7 +47,7 @@
         "@types/node": "24.13.3",
         "npm-run-all2": "9.0.2",
         "oxfmt": "0.61.0",
-        "oxlint": "1.75.0",
+        "oxlint": "1.76.0",
         "oxlint-config-presets": "0.1.17",
         "oxlint-tsgolint": "7.0.2001",
         "semantic-release": "25.0.8",
