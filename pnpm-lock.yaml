@@ -254,8 +254,8 @@ importers:
         specifier: 7.0.2
         version: 7.0.2
       vscode-languageserver-types:
-        specifier: 3.18.0
-        version: 3.18.0
+        specifier: 3.18.3
+        version: 3.18.3
 
 packages:
 
@@ -2426,6 +2426,9 @@ packages:
   vscode-languageserver-types@3.18.0:
     resolution: {integrity: sha512-8TsGPNMIMiiBdkORgRSvLjuiEIiAFtO+KssmYWxQ+uSVvlf7RjK8YKCOjPzZ+YA04jXEV7+7LvkSmHkhpNS99g==}
 
+  vscode-languageserver-types@3.18.3:
+    resolution: {integrity: sha512-XIlzJ7Qp/jzSI1ds7/FwPAWrPeTZA7pAtlW4hdJ1J6xXWJL6dR9QYnDhJOdLzdKhUQ5Mm6mvUMw+3DcOQQasPw==}
+
   web-tree-sitter@0.24.5:
     resolution: {integrity: sha512-+J/2VSHN8J47gQUAvF8KDadrfz6uFYVjxoxbKWDoXVsH2u7yLdarCnIURnrMA6uSRkgX3SdmqM5BOoQjPdSh5w==}
 
@@ -2909,7 +2912,7 @@ snapshots:
       temporal-polyfill: 0.3.2
       vscode-languageserver-protocol: 3.18.2
       vscode-languageserver-textdocument: 1.0.14
-      vscode-languageserver-types: 3.18.0
+      vscode-languageserver-types: 3.18.3
     optionalDependencies:
       ajv: 8.20.0
       ajv-errors: 3.0.0(ajv@8.20.0)
@@ -4668,6 +4671,8 @@ snapshots:
   vscode-languageserver-textdocument@1.0.14: {}
 
   vscode-languageserver-types@3.18.0: {}
+
+  vscode-languageserver-types@3.18.3: {}
 
   web-tree-sitter@0.24.5: {}
 
