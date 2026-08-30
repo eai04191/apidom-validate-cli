@@ -52,7 +52,7 @@
         "oxlint-tsgolint": "7.0.2001",
         "semantic-release": "25.0.9",
         "typescript": "7.0.2",
-        "vscode-languageserver-types": "3.18.0"
+        "vscode-languageserver-types": "3.18.3"
     },
     "devEngines": {
         "packageManager": {
