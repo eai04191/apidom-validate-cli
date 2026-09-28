@@ -213,8 +213,8 @@ importers:
         specifier: 7.0.2
         version: 7.0.2
       vscode-languageserver-types:
-        specifier: 3.18.3
-        version: 3.18.3
+        specifier: 3.18.4
+        version: 3.18.4
 
 packages:
 
