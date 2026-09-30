@@ -37,7 +37,7 @@
     },
     "dependencies": {
         "@swagger-api/apidom-ls": "1.12.1",
-        "chalk": "6.0.0",
+        "chalk": "6.0.1",
         "citty": "0.2.2",
         "vscode-languageserver-textdocument": "1.0.15"
     },
