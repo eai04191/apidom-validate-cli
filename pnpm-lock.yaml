@@ -201,8 +201,8 @@ importers:
         specifier: 1.88.0
         version: 1.88.0(oxlint-tsgolint@7.0.2004)
       oxlint-config-presets:
-        specifier: 0.1.20
-        version: 0.1.20(oxlint@1.88.0(oxlint-tsgolint@7.0.2004))
+        specifier: 0.1.21
+        version: 0.1.21(oxlint@1.88.0(oxlint-tsgolint@7.0.2004))
       oxlint-tsgolint:
         specifier: 7.0.2004
         version: 7.0.2004
@@ -1895,8 +1895,8 @@ packages:
       vite-plus:
         optional: true
 
-  oxlint-config-presets@0.1.20:
-    resolution: {integrity: sha512-gfwfKpqDEVKn8cQ5OUXDgQWg9a2j15PlEu22SE4o5yexaUi4VrPfanPigmTooLoh9xdqJZBIVGUcp1lMg8zX7w==}
+  oxlint-config-presets@0.1.21:
+    resolution: {integrity: sha512-NF1rZca5M06SNa0SEkxb2RX9atQU9d/T//skyZJrZF0xLuBjfQESuiRHjRqOYNZY3l+IIGuqbzG1Ky2xvP2HUg==}
     peerDependencies:
       oxlint: '>=0.15.0'
     peerDependenciesMeta:
@@ -4139,7 +4139,7 @@ snapshots:
       '@oxfmt/binding-win32-ia32-msvc': 0.73.0
       '@oxfmt/binding-win32-x64-msvc': 0.73.0
 
-  oxlint-config-presets@0.1.20(oxlint@1.88.0(oxlint-tsgolint@7.0.2004)):
+  oxlint-config-presets@0.1.21(oxlint@1.88.0(oxlint-tsgolint@7.0.2004)):
     optionalDependencies:
       oxlint: 1.88.0(oxlint-tsgolint@7.0.2004)
 
