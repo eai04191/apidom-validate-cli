@@ -167,8 +167,8 @@ importers:
   .:
     dependencies:
       '@swagger-api/apidom-ls':
-        specifier: 1.12.1
-        version: 1.12.1(debug@4.4.3(supports-color@7.2.0))(supports-color@7.2.0)
+        specifier: 1.13.3
+        version: 1.13.3(debug@4.4.3(supports-color@7.2.0))(supports-color@7.2.0)
       chalk:
         specifier: 6.0.1
         version: 6.0.1
@@ -647,131 +647,131 @@ packages:
     resolution: {integrity: sha512-tlqY9xq5ukxTUZBmoOp+m61cqwQD5pHJtFY3Mn8CA8ps6yghLH/Hw8UPdqg4OLmFW3IFlcXnQNmo/dh8HzXYIQ==}
     engines: {node: '>=18'}
 
-  '@swagger-api/apidom-ast@1.12.1':
-    resolution: {integrity: sha512-h1wIHNZ+4eQ00aXgX5VsTFLyi/9JWywK2CNOfZ3xzEfi9Qh/sDNHB9i4pbaGdlE8oxZa8HwqPl7+6M0fLCXfbA==}
+  '@swagger-api/apidom-ast@1.13.3':
+    resolution: {integrity: sha512-5722GHs+iLl4F5EbyReh+d0XEmG6t4F1BRTPEjHBrmfboBICi7u1cwwZ2wsCskQl0TehEl3RX1ZJWPmpkzjQFw==}
 
-  '@swagger-api/apidom-core@1.12.1':
-    resolution: {integrity: sha512-aBTAjJ0YzxFccXe5kB3nnVuHxRyPYEaE8eLEs/kJFmbv8UdMji1AVnNSk61MfJ4nodyoMYLfp6AoPa9fWXFgiQ==}
+  '@swagger-api/apidom-core@1.13.3':
+    resolution: {integrity: sha512-Sgd8pWucD2vs055koRTrRG1zH+pj9VXdyLtjKKC/iML6eAFgd0lmLccK2aFNGt2/36olIzNODeRMTPRnufZgCA==}
 
-  '@swagger-api/apidom-error@1.12.1':
-    resolution: {integrity: sha512-y44fOaleXZGIEX+MIUIksA704naPjhvpHEMfadWY/D9DW2JTdwv2edpyZEFjyK1jwchp/b3aQ+XG9MDvfwb8HQ==}
+  '@swagger-api/apidom-error@1.13.3':
+    resolution: {integrity: sha512-5erobaeuRu5rAwcL/ljE3jGuX/ILENq3zLU8rZCV0/rvlc5vuGGhyowt8UmI79L7y+vifYFs6d+kcfn/di0T6A==}
 
-  '@swagger-api/apidom-json-path@1.12.1':
-    resolution: {integrity: sha512-7gqti4rLNXyUoT8gItmfNbK8HgX/jb8dUF1wH7WzVA/mXTG0VQCAp6xk4Y5wwc6P+CoBTmlydf/XBl9qWSWtYg==}
+  '@swagger-api/apidom-json-path@1.13.3':
+    resolution: {integrity: sha512-hYe/WnJ6Mxo8DQpBUhnNb2/aFCVGCkH9FqKhhEqs2cnu3pwr3+yHZj4w0vwcDprUk6ajLBMbyXoGwsyQcIS2xg==}
 
-  '@swagger-api/apidom-json-pointer@1.12.1':
-    resolution: {integrity: sha512-EZmwpku1eMsc7Lvdz0sm/XHkRAmj7FpMwfVm1MfoXiljhPrEVHH6FTZmM3QXaprkOeDMkBTDGtIv/LgYOq/b+w==}
+  '@swagger-api/apidom-json-pointer@1.13.3':
+    resolution: {integrity: sha512-eQaMH3HnR5eElsBQc5IueDsZoK76uCnW78JZDP2uLDTq3Lqx0hzUyFnZUSwY/XrLmfcLWtJiSABezEU/DcfJBg==}
 
-  '@swagger-api/apidom-ls@1.12.1':
-    resolution: {integrity: sha512-YLsfX5+6RZnE5O7RCAGMWUWHBSKepOmaKh77tyknuKpBcOIRyOmIUt7uEJRjwuTBid+mcM82Rc68shhXlyzd8g==}
+  '@swagger-api/apidom-ls@1.13.3':
+    resolution: {integrity: sha512-gy3FrBstDf391dXVvC6EF9w1ccpvb32CqAoqKeVmCKGyY66ZL6CdwINrYxkAfFmlRCV2jEXoa96Dp73J4VAMtg==}
 
-  '@swagger-api/apidom-ns-a2a-1@1.12.1':
-    resolution: {integrity: sha512-/HjUqcV8XpUQET/P5fqVCsm9ZXpeYwHpKVJtv+pIPDF1Zk5thHCKgyC3qIM+/ZGBDqt6MVrhpyrYIvEHFyd3dQ==}
+  '@swagger-api/apidom-ns-a2a-1@1.13.3':
+    resolution: {integrity: sha512-TZEmV3E2Hji9dDm7e1wAckMnqFGdxnFSrbDtwKbubSfYgshSMqx0Vc3mQu/IsigqSmZZLWgmOI9iq737SqraZQ==}
 
-  '@swagger-api/apidom-ns-api-design-systems@1.12.1':
-    resolution: {integrity: sha512-Va3ljpxF8Ti/cMxD8/JdFtEdVg8hxwZ8/1TsUNwcE12qLu9o95hHsqmm8/OlKSqfSpO3KG/QT1TIKmQsl7cAsQ==}
+  '@swagger-api/apidom-ns-api-design-systems@1.13.3':
+    resolution: {integrity: sha512-00aflYATDo1RbkLNvAq/lS3aEZHfCKFwBZbSSvoLAXsIguzKYCCIjm5F+4fWLIiToL7junHvnUuS9PHTMre7bQ==}
 
-  '@swagger-api/apidom-ns-arazzo-1@1.12.1':
-    resolution: {integrity: sha512-0G+KnlXb9QVJGC/tJLjkv7oiFBl45xAd8CM9dwwvnG7vBFJZGOq04qs8S8oCuA94ugSvdmave88IA03SEM7FWg==}
+  '@swagger-api/apidom-ns-arazzo-1@1.13.3':
+    resolution: {integrity: sha512-42apSY7ttFRHIX7JDCH494IGwd6AhS7Owj4ftdfzhZUj1ZQU8YcXzunmlwig4tw1RyOR3hBzH51h0uvWO6M2+w==}
 
-  '@swagger-api/apidom-ns-asyncapi-2@1.12.1':
-    resolution: {integrity: sha512-GQUrBTz74usl88dFrrhRH1btc4sinJ0vb9bnFfBOuQBF0MYvVJ67Vsx1cz6iIfS4Y/2+x63WX5krJlmKavUQ9w==}
+  '@swagger-api/apidom-ns-asyncapi-2@1.13.3':
+    resolution: {integrity: sha512-TrUYjBi8obSkt30/rqmDS9mNepoPbJCF1zrnMVKx2EmYMqq3S35ZRC+PJSqCDCZ7VlVm8oE4/jtRm1LCmCPFvg==}
 
-  '@swagger-api/apidom-ns-asyncapi-3@1.12.1':
-    resolution: {integrity: sha512-lPJd/zXcCv2zBAjMfxHDbiC0xQD7cpztD403mh74unGsVN9Xj+aBfGMZ9qsh+UdMYhxk6Ad2C4esYkROB2Awqw==}
+  '@swagger-api/apidom-ns-asyncapi-3@1.13.3':
+    resolution: {integrity: sha512-uN8dK3zUS0rR2uWgeH7X2AGVzsupBjJqz3jebkneTdPm9r8xmJuKhPboXiafrveqv0V9BGFUcMSn9S9FPyD1Cg==}
 
-  '@swagger-api/apidom-ns-json-schema-2019-09@1.12.1':
-    resolution: {integrity: sha512-HlzTVQZV1d2twOGcZd7h2LUm/KAaWy0il1Bcwy6pGkdyHcP3lm85xgSbeGuJgn0sE9j0IuZrMuMMwAzcqhMAGA==}
+  '@swagger-api/apidom-ns-json-schema-2019-09@1.13.3':
+    resolution: {integrity: sha512-W0P/yN5ZDxjEFb2W+f7NK1XokhBxXvfhWVSPoze7K+bF4ekcB2qkfxAdsI38FWvlxQGL6TQETxQna9Lp1d7blw==}
 
-  '@swagger-api/apidom-ns-json-schema-2020-12@1.12.1':
-    resolution: {integrity: sha512-0C5I+0MwE/fPueRoHnbFjUF2v1I85PRRUtlmifRM9NZgbCPJ6X/u5TDhllDmu0UDnvFjrSAGMvS/vw+i77qtdA==}
+  '@swagger-api/apidom-ns-json-schema-2020-12@1.13.3':
+    resolution: {integrity: sha512-fF5Wqvmb2vvx0o0Tr5Vcz+Q6gedVi7oGeKJWaSBA7WJ0awUz+PCIW3OPiKhcxdVW2/Zrxd5kMELDCmarnHS65Q==}
 
-  '@swagger-api/apidom-ns-json-schema-draft-4@1.12.1':
-    resolution: {integrity: sha512-szwBlRH0jey/FtJ25f8k3rVUuQFg66c9FyLozZzEkMu5MFFGcl/NK2AZ9TRATmcIrpNFuK8FSz9PaPmNEUbnMw==}
+  '@swagger-api/apidom-ns-json-schema-draft-4@1.13.3':
+    resolution: {integrity: sha512-8jh6dhDKskIPP/76aIMlNpCHf5oHHyMuAe4FL2nw3fat3GOq/l0ea0a/6E1tjUJLokAaES0sWTkxYgNRWMBrBg==}
 
-  '@swagger-api/apidom-ns-json-schema-draft-6@1.12.1':
-    resolution: {integrity: sha512-HvV5NHiqGNLI4M3BS1RJcRyxVCK4jJd4T2UaSKhZOezy3MaKguGI8oDgwix8eyw+6OwhxuXNQpRMobYb+WaseQ==}
+  '@swagger-api/apidom-ns-json-schema-draft-6@1.13.3':
+    resolution: {integrity: sha512-axUur9XmKCi42WSGceBXKwnqPTMMVF+0Etaksazo5j7ydWLEM0J1EyeeE7uZlpaoIA1/ev2m09j2v1LNOc6NYg==}
 
-  '@swagger-api/apidom-ns-json-schema-draft-7@1.12.1':
-    resolution: {integrity: sha512-t7LqogFYGN1ocxFTkJIXsqM4M66WAWIFW/yBbaGOO//OiuVuRe5wVXzpbJttT3cA2peotQbpKxlBL/GuvxWguA==}
+  '@swagger-api/apidom-ns-json-schema-draft-7@1.13.3':
+    resolution: {integrity: sha512-AyIMoer1bFhn3ULeEe6EMQDcD4b4JiTWQMvS/qDUoQqY6fCLPu6er/6cxcjcgTgf8L86aG6PhPxucnYDWr0DFQ==}
 
-  '@swagger-api/apidom-ns-openapi-2@1.12.1':
-    resolution: {integrity: sha512-v93DUAk5hehbsp81kJKwbcJbWBVFXcdBqZy8G8Lbo6QeCar1/dP6CWItbn8xArZmG3PeYkZK77v903HEmLxghA==}
+  '@swagger-api/apidom-ns-openapi-2@1.13.3':
+    resolution: {integrity: sha512-ndrNoyETfWPOvoqNIQ19yoYGVhXlrLCK2xanTn+IGJ4hg/9vK2Le4Qmiv1O/E90hODs5JPx1WuZBRQikKOLW8Q==}
 
-  '@swagger-api/apidom-ns-openapi-3-0@1.12.1':
-    resolution: {integrity: sha512-EO2c552sMDtZXllLSQVI5u1+gpo654LW1apmi9YvblCrRek2Gyejoj3otBfo9IFdBEuczbt+Rll3hRnZx3aqeA==}
+  '@swagger-api/apidom-ns-openapi-3-0@1.13.3':
+    resolution: {integrity: sha512-emLzxkwOb/RCenwZ6DRukuTAWwwqcM6a76gpHL8rq9Ax8AEbmKB0Ex25tqc/HWXRRTOioylSuotluUvHcRqXEQ==}
 
-  '@swagger-api/apidom-ns-openapi-3-1@1.12.1':
-    resolution: {integrity: sha512-qDJ6rGUTMLQ5MHWqAQ+3/+VGBjS7je5pYkP3hiF2AeXTESh1/MOjPICxDWE6XDwcvkVOIcXX+xEDt7ulnzvrtA==}
+  '@swagger-api/apidom-ns-openapi-3-1@1.13.3':
+    resolution: {integrity: sha512-Oh1lonFFB1sEATek6e18efUMNG+ttXWrRHrblJtVMx7cUelP1BTvBt4ykrvlnXw4EoG8bIHwLtD6yVgCX1mcpw==}
 
-  '@swagger-api/apidom-ns-openapi-3-2@1.12.1':
-    resolution: {integrity: sha512-H0VmiegQhWc+53xypcxS3T7qUVcfJKX+DYmiPx9FZvvSOp77Ctvc2/RtztGQ5531oFWDWtPt0Ad0VwxmEcfL8w==}
+  '@swagger-api/apidom-ns-openapi-3-2@1.13.3':
+    resolution: {integrity: sha512-1wUZvT2E71WorxQDy9zxrq2GJud7wUO6r/oDPTldnRiagAe/KXyLyRbucxeaLqh417wCg2ySGyClZVUT5QwE9g==}
 
-  '@swagger-api/apidom-parser-adapter-a2a-json-1@1.12.1':
-    resolution: {integrity: sha512-4Bp56QdMOmv6pkhmDExFlzHHjtB3CqW4rjyo+QcnhiWBmB3qbsS4/rHEQVGNlGtUC+ze0+LbAI4pycAnqF88dQ==}
+  '@swagger-api/apidom-parser-adapter-a2a-json-1@1.13.3':
+    resolution: {integrity: sha512-v1GCfvk/goJBlroHSW5gVHWI0OgHG3HfsfHR6XlWwronJaaTq/Adz7yE/rNyjC+Wfmi7VVhuNoWvOUuWjbWr3w==}
 
-  '@swagger-api/apidom-parser-adapter-a2a-yaml-1@1.12.1':
-    resolution: {integrity: sha512-GsQogmK2vUQXOIImFFSoKnhiJDVOm2K4zxRAtIHrwCVgFqD4mwV+cSojE44dOi7tqH/3bp7yCdo4LilleeetRQ==}
+  '@swagger-api/apidom-parser-adapter-a2a-yaml-1@1.13.3':
+    resolution: {integrity: sha512-WMDimop6PdvAoNKymE5sm4xclvEfFFQhASKjY48t9E7gYg0qterZKspNBVDw0Zd6OP/Lg4NxmdafPlkhD5JTQA==}
 
-  '@swagger-api/apidom-parser-adapter-api-design-systems-json@1.12.1':
-    resolution: {integrity: sha512-xhUgAXs8Rxssfr3dEWpKhDheeycI9Vt6jtBVEwavcL9+ss8cY9jzVck3R7Ql7P9yBVhF41K4ZTUIO1QJVngYZA==}
+  '@swagger-api/apidom-parser-adapter-api-design-systems-json@1.13.3':
+    resolution: {integrity: sha512-eaoQxXaMBBqYlNxYDbmzNyYCfn73TiqVuTQxfDNENtQmX36w3c/T7fBwOjfL41GqzzJF6pzVvu3jFHOFgse0Ww==}
 
-  '@swagger-api/apidom-parser-adapter-api-design-systems-yaml@1.12.1':
-    resolution: {integrity: sha512-FPJ9Da6CChE3Xp5+vS8bXrsdmzy7+BrTxLt38SQrpYCpx1fRKsfs+xZqLTRHEhv01QG7Hj7MFG/xGEqK7rt8/w==}
+  '@swagger-api/apidom-parser-adapter-api-design-systems-yaml@1.13.3':
+    resolution: {integrity: sha512-Ne6oCXVaanpN1h4ThuOhiF4HDUN3lZmSfpkJt5qJrsMYNGIVqIIEjrqhVs3MDK+gSa+oQszHnbZSkePz+6dsJQ==}
 
-  '@swagger-api/apidom-parser-adapter-arazzo-json-1@1.12.1':
-    resolution: {integrity: sha512-nJB+UWnSU9wz615wsXJfPh5Ij180UOYsMN2icuVADVBKGAAxfEbafq3ATtPVvpBNZBg50eKeIwjAXjjC4OsLMg==}
+  '@swagger-api/apidom-parser-adapter-arazzo-json-1@1.13.3':
+    resolution: {integrity: sha512-UTV8YHKZInMCyXDBQq4rmgW+dK9rQ7tjRFjr4lzXWMZuBPcd0+ot4Wh0azn7NC8vXqa1qBX6a+pqX9hUVLRXQA==}
 
-  '@swagger-api/apidom-parser-adapter-arazzo-yaml-1@1.12.1':
-    resolution: {integrity: sha512-8lgMKvb0Lhl1C9uNtBYm9DR9Dljpk/u23dH1H/xGAD1A54zZaQYchbyC4VCAHuesmjVT+mWylGoIU0SIlAOcNQ==}
+  '@swagger-api/apidom-parser-adapter-arazzo-yaml-1@1.13.3':
+    resolution: {integrity: sha512-s0eT30Yy0izzZIRSJfQedwI0nOFMLs5E5wRzAUje8DI2qdSlFjA1AFtDtylMq9TQPn9y6AG2ysPy/TecfigdbQ==}
 
-  '@swagger-api/apidom-parser-adapter-asyncapi-json-2@1.12.1':
-    resolution: {integrity: sha512-HetDS5x6yHF/JeDokHiPNzX5lhm0GbVpy5MMVOcfH7zp9QSBFBGwhJTRPDEYm8PKfjkCMFLzCgiUKwqn73LV4g==}
+  '@swagger-api/apidom-parser-adapter-asyncapi-json-2@1.13.3':
+    resolution: {integrity: sha512-u7OXUI17VK+SX6j8whSBNPnMl85fvexFyu1lbrdpNIJP3gojUgvSZN6g9w0pII7VYBfsYDkDLKQemYVQtK4jEA==}
 
-  '@swagger-api/apidom-parser-adapter-asyncapi-json-3@1.12.1':
-    resolution: {integrity: sha512-FzWH1uVNu3jWG6qB1OtbC76bQburCf3zoi3VPEQONSjT+i2vfcgc+WhAjVxaGQEwpjhbCkF2oo6WPC1hPbxARA==}
+  '@swagger-api/apidom-parser-adapter-asyncapi-json-3@1.13.3':
+    resolution: {integrity: sha512-Z65quIJg7z74wGJH/JuAbGM92FsWxmHKrZQl7/0yMAzI56mATUTgDWNXbm51JypRzSA393MKpFzy0dinU0eN+A==}
 
-  '@swagger-api/apidom-parser-adapter-asyncapi-yaml-2@1.12.1':
-    resolution: {integrity: sha512-zkMaQZPbdJ1rg+754BxJsd+gOmFRBAGObJ2xGLSRf7OKqhwJhnJQVGlyYViaNNpzHPfrhc6KeEsiczVqGESDKA==}
+  '@swagger-api/apidom-parser-adapter-asyncapi-yaml-2@1.13.3':
+    resolution: {integrity: sha512-18m7ubllmlEp1xUL2idh7u5QgJbQVkLVYtQvIalvVHC8Lr6I4kbG4LiZXjxGx1SBg+BpPV1jjlQ+bG+Iz4Vh7w==}
 
-  '@swagger-api/apidom-parser-adapter-asyncapi-yaml-3@1.12.1':
-    resolution: {integrity: sha512-B2vVz0V+3WC+SBgZvHFYceF3RqGGghVOhXVQm5R9L6yUqT1zrmbu9RC+CFftKHs9mp3BX83dZZBhh+l4vHBuPw==}
+  '@swagger-api/apidom-parser-adapter-asyncapi-yaml-3@1.13.3':
+    resolution: {integrity: sha512-iuLrgNFv1mujaHkeO1xTRvrP28RMtwT3D6zq8RmqHrdlXEYd9RFTsecuBBax6ZyB4WRU3r/bbTPhy2UfhM0vaw==}
 
-  '@swagger-api/apidom-parser-adapter-json@1.12.1':
-    resolution: {integrity: sha512-ImdTAC3+qTwEyjumBD19lcLp8UZ0WdB0T/iXNJOMvAw4oqZdGvsq2Zdthgbvxq5CnTr146YH5IzXuOYPfh47jw==}
+  '@swagger-api/apidom-parser-adapter-json@1.13.3':
+    resolution: {integrity: sha512-1TbxPuoh+ZSoGo0bcGnAeOFANU8GPTYVt1jsDnVIhNQL/DU/27hCuKse5xiystKNt6qiGyAQ1wEKqtaBedojzg==}
 
-  '@swagger-api/apidom-parser-adapter-openapi-json-2@1.12.1':
-    resolution: {integrity: sha512-oo98u119nP05eLetyc/DPmDtDBfj+ZYeLRnq9pDa+7UOQs83NUvNWsfdWvJtSpgwOZZIqhR8+O7amULKJR+BdA==}
+  '@swagger-api/apidom-parser-adapter-openapi-json-2@1.13.3':
+    resolution: {integrity: sha512-gwc2lBGvmMlHXPKU5a8isCbGvo1CDg84uEjp3A/zT3SSYXaEBKOqrqLFvSVoPAtVo3tpTTwtSoxodESxdl1YLw==}
 
-  '@swagger-api/apidom-parser-adapter-openapi-json-3-0@1.12.1':
-    resolution: {integrity: sha512-SA5PiAytwGuC56pS8FOCLZVeUdudHHrot2ms9SwFFZMF+sHGgeQ8+EoBiE0+H4L+M5otpMyV/slT+WwfGCCGsw==}
+  '@swagger-api/apidom-parser-adapter-openapi-json-3-0@1.13.3':
+    resolution: {integrity: sha512-VrW34GMn8PerjUBCNDHJpulSEAH8BsUAV09jPw4PhVsIFSombRbEflLDH8cpmLYS4l2ywNVgn6YiZKy92jnJ6Q==}
 
-  '@swagger-api/apidom-parser-adapter-openapi-json-3-1@1.12.1':
-    resolution: {integrity: sha512-cqJ/vvxI6+apG7NZHMugiqLpF/xquKcw1vVxrRraXetrzwNBGHHdfYh8pnW1BlVDXNoVplqMHxyJnANYrD13KQ==}
+  '@swagger-api/apidom-parser-adapter-openapi-json-3-1@1.13.3':
+    resolution: {integrity: sha512-h06hVkFgpRiyWes2kRBKvquAVozIjAXBmEV7xowyo1hRyE+45VFPjey/pdaV6YWiSCekLZ2kRYh4U4b+U+oL0w==}
 
-  '@swagger-api/apidom-parser-adapter-openapi-json-3-2@1.12.1':
-    resolution: {integrity: sha512-BFrjyONcPrp8kFYC8YPIKO2mvJcJMp2Gc99MwnVdpbZY+PJ2GWNh8ZMDR+e90VAAATCn+ZaeYQXjKo788BtZ2w==}
+  '@swagger-api/apidom-parser-adapter-openapi-json-3-2@1.13.3':
+    resolution: {integrity: sha512-QsVjugqHqwM4VvN2DIIHpHt+5clvliHOBAj/WBYeiCBTBBI6m1/2hlG2Vu7jyMEpA88ML1WLK8JOHf2+fOwN1A==}
 
-  '@swagger-api/apidom-parser-adapter-openapi-yaml-2@1.12.1':
-    resolution: {integrity: sha512-1tZI8BYmqbgSYKBW3zQy0YtG0xDwVCdguBffSITb6qXUfhpzDrziJFKqetAe+aa1SysyuZzyr/VOXizmvuY5mg==}
+  '@swagger-api/apidom-parser-adapter-openapi-yaml-2@1.13.3':
+    resolution: {integrity: sha512-lWTxEXmISAE5qN3H0sKLZyNdlBTM3LwyeRbkuGSLbzT8SyIAL37chiuYaBNRfdA1Y8x9xbIdimCWZpACet4Glw==}
 
-  '@swagger-api/apidom-parser-adapter-openapi-yaml-3-0@1.12.1':
-    resolution: {integrity: sha512-tnzd433XQeW3h8n4IrHCDZtMi1/55DYwl5Keov+w6ozfuX+akYm9y+tdD7wjlxF5sIVj0qD0glU05m2L4JH0rQ==}
+  '@swagger-api/apidom-parser-adapter-openapi-yaml-3-0@1.13.3':
+    resolution: {integrity: sha512-EDmWNX7OFaHQl8YIRNdH06aehJZr3qt+1p2Qzrc2vn0adnmw9lQX3FvBUI44A5w3R/Q2z0iMtOXIo3baqr7MZQ==}
 
-  '@swagger-api/apidom-parser-adapter-openapi-yaml-3-1@1.12.1':
-    resolution: {integrity: sha512-1E6w/e9rOQ3tPoalI3WzUEbkxqtDWMeJvYqlTCKjESBxejz8LMr5PWbmSObG317Bd6E38LkWP6vEB9acXcO9Zg==}
+  '@swagger-api/apidom-parser-adapter-openapi-yaml-3-1@1.13.3':
+    resolution: {integrity: sha512-0Qi+dK+6F6cgu0GTm1Y/tCSbhN6zZI9iULjLPNsQYLZEKvUzo56FFcGVIOaYveG7qguXKC9YQ9bZcS1ZqhgS1Q==}
 
-  '@swagger-api/apidom-parser-adapter-openapi-yaml-3-2@1.12.1':
-    resolution: {integrity: sha512-6wzxjBavlFghHmcNyqGxHLlOrRPndUjKOtz677YLjmiRz5TCDI7bSkqE6LaxktgsO4ygxUs9mkXNcEkAeJtfYw==}
+  '@swagger-api/apidom-parser-adapter-openapi-yaml-3-2@1.13.3':
+    resolution: {integrity: sha512-dL3vJ8kFSvh9mmlHM1Cl8hNFJWHQ8CpypkfN7QTuMHIVJruvOwJ2VWhNXM8GTH07ytFg8cFto0UAGYgG2E/raw==}
 
-  '@swagger-api/apidom-parser-adapter-yaml-1-2@1.12.1':
-    resolution: {integrity: sha512-AMIvD+XHtkjFnuXRfn0OJynitPCdi+ru9WEj4SrZ9KnSOV6tkhhuZqi+IB2LEdwPBAjI7WuuNNqLkMhCu1ZDGw==}
+  '@swagger-api/apidom-parser-adapter-yaml-1-2@1.13.3':
+    resolution: {integrity: sha512-6jNhcCGnEE35dCG1NGEEddUb26kFU8VzuBoCJpOeCOJcKcsVehSpS2igD9bOVepoWMORRRE7CQkcCjoKMk95Xg==}
 
-  '@swagger-api/apidom-parser@1.12.1':
-    resolution: {integrity: sha512-KJKutcFB6OyTyGPM5eEXIau2fDkkWdwSMRW+0cHejWWgJL4T7pDEwbTvUpsDl/8MSvtOI+MOk2vsXIMyqV8ogA==}
+  '@swagger-api/apidom-parser@1.13.3':
+    resolution: {integrity: sha512-ogxLPfYDiNzC54eDR3pjibuieFO2BzYC0LoKwVZPcld1eLFutUVKKZNK9XpQY9F4nWlYgHts39S5f4lQuDO8zQ==}
 
-  '@swagger-api/apidom-reference@1.12.1':
-    resolution: {integrity: sha512-2Au0z4AwwpqKia09p87xCTOWRHAoLuwgSY+082FOcyyOev8ICBUFd6vQXBL5wGKOgwsn6hShkvopj5dObGcKUA==}
+  '@swagger-api/apidom-reference@1.13.3':
+    resolution: {integrity: sha512-mOJ7ANqcrxhzGHPybNuzAV8Ytm7gCGRj+S4xOkNmg7cerPmMgUxTwhDPF3FDQ/wUfQL+jjdYef2IydwdOxab+A==}
 
   '@swaggerexpert/json-pointer@2.10.2':
     resolution: {integrity: sha512-qMx1nOrzoB+PF+pzb26Q4Tc2sOlrx9Ba2UBNX9hB31Omrq+QoZ2Gly0KLrQWw4Of1AQ4J9lnD+XOdwOdcdXqqw==}
@@ -2797,20 +2797,20 @@ snapshots:
 
   '@sindresorhus/merge-streams@4.0.0': {}
 
-  '@swagger-api/apidom-ast@1.12.1':
+  '@swagger-api/apidom-ast@1.13.3':
     dependencies:
       '@babel/runtime-corejs3': 7.29.10
-      '@swagger-api/apidom-error': 1.12.1
+      '@swagger-api/apidom-error': 1.13.3
       '@types/ramda': 0.30.2
       ramda: 0.30.1
       ramda-adjunct: 5.1.0(ramda@0.30.1)
       unraw: 3.0.0
 
-  '@swagger-api/apidom-core@1.12.1':
+  '@swagger-api/apidom-core@1.13.3':
     dependencies:
       '@babel/runtime-corejs3': 7.29.10
-      '@swagger-api/apidom-ast': 1.12.1
-      '@swagger-api/apidom-error': 1.12.1
+      '@swagger-api/apidom-ast': 1.13.3
+      '@swagger-api/apidom-error': 1.13.3
       '@types/ramda': 0.30.2
       minim: 0.23.8
       ramda: 0.30.1
@@ -2818,58 +2818,58 @@ snapshots:
       short-unique-id: 5.3.2
       ts-mixer: 6.0.4
 
-  '@swagger-api/apidom-error@1.12.1':
+  '@swagger-api/apidom-error@1.13.3':
     dependencies:
       '@babel/runtime-corejs3': 7.29.10
 
-  '@swagger-api/apidom-json-path@1.12.1':
+  '@swagger-api/apidom-json-path@1.13.3':
     dependencies:
       '@babel/runtime-corejs3': 7.29.10
-      '@swagger-api/apidom-core': 1.12.1
-      '@swagger-api/apidom-error': 1.12.1
-      '@swagger-api/apidom-json-pointer': 1.12.1
+      '@swagger-api/apidom-core': 1.13.3
+      '@swagger-api/apidom-error': 1.13.3
+      '@swagger-api/apidom-json-pointer': 1.13.3
       jsonpath-plus: 10.4.0
 
-  '@swagger-api/apidom-json-pointer@1.12.1':
+  '@swagger-api/apidom-json-pointer@1.13.3':
     dependencies:
       '@babel/runtime-corejs3': 7.29.10
-      '@swagger-api/apidom-core': 1.12.1
-      '@swagger-api/apidom-error': 1.12.1
+      '@swagger-api/apidom-core': 1.13.3
+      '@swagger-api/apidom-error': 1.13.3
       '@swaggerexpert/json-pointer': 2.10.2
 
-  '@swagger-api/apidom-ls@1.12.1(debug@4.4.3(supports-color@7.2.0))(supports-color@7.2.0)':
+  '@swagger-api/apidom-ls@1.13.3(debug@4.4.3(supports-color@7.2.0))(supports-color@7.2.0)':
     dependencies:
       '@babel/runtime-corejs3': 7.29.10
-      '@swagger-api/apidom-core': 1.12.1
-      '@swagger-api/apidom-json-path': 1.12.1
-      '@swagger-api/apidom-json-pointer': 1.12.1
-      '@swagger-api/apidom-ns-a2a-1': 1.12.1
-      '@swagger-api/apidom-ns-api-design-systems': 1.12.1
-      '@swagger-api/apidom-ns-asyncapi-2': 1.12.1
-      '@swagger-api/apidom-ns-openapi-2': 1.12.1
-      '@swagger-api/apidom-ns-openapi-3-0': 1.12.1
-      '@swagger-api/apidom-ns-openapi-3-1': 1.12.1
-      '@swagger-api/apidom-ns-openapi-3-2': 1.12.1
-      '@swagger-api/apidom-parser': 1.12.1
-      '@swagger-api/apidom-parser-adapter-a2a-json-1': 1.12.1
-      '@swagger-api/apidom-parser-adapter-a2a-yaml-1': 1.12.1
-      '@swagger-api/apidom-parser-adapter-api-design-systems-json': 1.12.1
-      '@swagger-api/apidom-parser-adapter-api-design-systems-yaml': 1.12.1
-      '@swagger-api/apidom-parser-adapter-asyncapi-json-2': 1.12.1
-      '@swagger-api/apidom-parser-adapter-asyncapi-json-3': 1.12.1
-      '@swagger-api/apidom-parser-adapter-asyncapi-yaml-2': 1.12.1
-      '@swagger-api/apidom-parser-adapter-asyncapi-yaml-3': 1.12.1
-      '@swagger-api/apidom-parser-adapter-json': 1.12.1
-      '@swagger-api/apidom-parser-adapter-openapi-json-2': 1.12.1
-      '@swagger-api/apidom-parser-adapter-openapi-json-3-0': 1.12.1
-      '@swagger-api/apidom-parser-adapter-openapi-json-3-1': 1.12.1
-      '@swagger-api/apidom-parser-adapter-openapi-json-3-2': 1.12.1
-      '@swagger-api/apidom-parser-adapter-openapi-yaml-2': 1.12.1
-      '@swagger-api/apidom-parser-adapter-openapi-yaml-3-0': 1.12.1
-      '@swagger-api/apidom-parser-adapter-openapi-yaml-3-1': 1.12.1
-      '@swagger-api/apidom-parser-adapter-openapi-yaml-3-2': 1.12.1
-      '@swagger-api/apidom-parser-adapter-yaml-1-2': 1.12.1
-      '@swagger-api/apidom-reference': 1.12.1(debug@4.4.3(supports-color@7.2.0))(supports-color@7.2.0)
+      '@swagger-api/apidom-core': 1.13.3
+      '@swagger-api/apidom-json-path': 1.13.3
+      '@swagger-api/apidom-json-pointer': 1.13.3
+      '@swagger-api/apidom-ns-a2a-1': 1.13.3
+      '@swagger-api/apidom-ns-api-design-systems': 1.13.3
+      '@swagger-api/apidom-ns-asyncapi-2': 1.13.3
+      '@swagger-api/apidom-ns-openapi-2': 1.13.3
+      '@swagger-api/apidom-ns-openapi-3-0': 1.13.3
+      '@swagger-api/apidom-ns-openapi-3-1': 1.13.3
+      '@swagger-api/apidom-ns-openapi-3-2': 1.13.3
+      '@swagger-api/apidom-parser': 1.13.3
+      '@swagger-api/apidom-parser-adapter-a2a-json-1': 1.13.3
+      '@swagger-api/apidom-parser-adapter-a2a-yaml-1': 1.13.3
+      '@swagger-api/apidom-parser-adapter-api-design-systems-json': 1.13.3
+      '@swagger-api/apidom-parser-adapter-api-design-systems-yaml': 1.13.3
+      '@swagger-api/apidom-parser-adapter-asyncapi-json-2': 1.13.3
+      '@swagger-api/apidom-parser-adapter-asyncapi-json-3': 1.13.3
+      '@swagger-api/apidom-parser-adapter-asyncapi-yaml-2': 1.13.3
+      '@swagger-api/apidom-parser-adapter-asyncapi-yaml-3': 1.13.3
+      '@swagger-api/apidom-parser-adapter-json': 1.13.3
+      '@swagger-api/apidom-parser-adapter-openapi-json-2': 1.13.3
+      '@swagger-api/apidom-parser-adapter-openapi-json-3-0': 1.13.3
+      '@swagger-api/apidom-parser-adapter-openapi-json-3-1': 1.13.3
+      '@swagger-api/apidom-parser-adapter-openapi-json-3-2': 1.13.3
+      '@swagger-api/apidom-parser-adapter-openapi-yaml-2': 1.13.3
+      '@swagger-api/apidom-parser-adapter-openapi-yaml-3-0': 1.13.3
+      '@swagger-api/apidom-parser-adapter-openapi-yaml-3-1': 1.13.3
+      '@swagger-api/apidom-parser-adapter-openapi-yaml-3-2': 1.13.3
+      '@swagger-api/apidom-parser-adapter-yaml-1-2': 1.13.3
+      '@swagger-api/apidom-reference': 1.13.3(debug@4.4.3(supports-color@7.2.0))(supports-color@7.2.0)
       '@types/ramda': 0.30.2
       openapi-path-templating: 2.2.1
       ramda: 0.30.1
@@ -2888,268 +2888,268 @@ snapshots:
       - debug
       - supports-color
 
-  '@swagger-api/apidom-ns-a2a-1@1.12.1':
+  '@swagger-api/apidom-ns-a2a-1@1.13.3':
     dependencies:
       '@babel/runtime-corejs3': 7.29.10
-      '@swagger-api/apidom-core': 1.12.1
+      '@swagger-api/apidom-core': 1.13.3
       '@types/ramda': 0.30.2
       ramda: 0.30.1
       ramda-adjunct: 5.1.0(ramda@0.30.1)
       ts-mixer: 6.0.4
 
-  '@swagger-api/apidom-ns-api-design-systems@1.12.1':
+  '@swagger-api/apidom-ns-api-design-systems@1.13.3':
     dependencies:
       '@babel/runtime-corejs3': 7.29.10
-      '@swagger-api/apidom-core': 1.12.1
-      '@swagger-api/apidom-error': 1.12.1
-      '@swagger-api/apidom-ns-openapi-3-1': 1.12.1
+      '@swagger-api/apidom-core': 1.13.3
+      '@swagger-api/apidom-error': 1.13.3
+      '@swagger-api/apidom-ns-openapi-3-1': 1.13.3
       '@types/ramda': 0.30.2
       ramda: 0.30.1
       ramda-adjunct: 5.1.0(ramda@0.30.1)
       ts-mixer: 6.0.4
 
-  '@swagger-api/apidom-ns-arazzo-1@1.12.1':
+  '@swagger-api/apidom-ns-arazzo-1@1.13.3':
     dependencies:
       '@babel/runtime-corejs3': 7.29.10
-      '@swagger-api/apidom-core': 1.12.1
-      '@swagger-api/apidom-ns-json-schema-2020-12': 1.12.1
+      '@swagger-api/apidom-core': 1.13.3
+      '@swagger-api/apidom-ns-json-schema-2020-12': 1.13.3
       '@types/ramda': 0.30.2
       ramda: 0.30.1
       ramda-adjunct: 5.1.0(ramda@0.30.1)
       ts-mixer: 6.0.4
     optional: true
 
-  '@swagger-api/apidom-ns-asyncapi-2@1.12.1':
+  '@swagger-api/apidom-ns-asyncapi-2@1.13.3':
     dependencies:
       '@babel/runtime-corejs3': 7.29.10
-      '@swagger-api/apidom-core': 1.12.1
-      '@swagger-api/apidom-ns-json-schema-draft-7': 1.12.1
+      '@swagger-api/apidom-core': 1.13.3
+      '@swagger-api/apidom-ns-json-schema-draft-7': 1.13.3
       '@types/ramda': 0.30.2
       ramda: 0.30.1
       ramda-adjunct: 5.1.0(ramda@0.30.1)
       ts-mixer: 6.0.4
 
-  '@swagger-api/apidom-ns-asyncapi-3@1.12.1':
+  '@swagger-api/apidom-ns-asyncapi-3@1.13.3':
     dependencies:
       '@babel/runtime-corejs3': 7.29.10
-      '@swagger-api/apidom-core': 1.12.1
-      '@swagger-api/apidom-ns-asyncapi-2': 1.12.1
+      '@swagger-api/apidom-core': 1.13.3
+      '@swagger-api/apidom-ns-asyncapi-2': 1.13.3
       '@types/ramda': 0.30.2
       ramda: 0.30.1
       ramda-adjunct: 5.1.0(ramda@0.30.1)
       ts-mixer: 6.0.4
 
-  '@swagger-api/apidom-ns-json-schema-2019-09@1.12.1':
+  '@swagger-api/apidom-ns-json-schema-2019-09@1.13.3':
     dependencies:
       '@babel/runtime-corejs3': 7.29.10
-      '@swagger-api/apidom-core': 1.12.1
-      '@swagger-api/apidom-error': 1.12.1
-      '@swagger-api/apidom-ns-json-schema-draft-7': 1.12.1
+      '@swagger-api/apidom-core': 1.13.3
+      '@swagger-api/apidom-error': 1.13.3
+      '@swagger-api/apidom-ns-json-schema-draft-7': 1.13.3
       '@types/ramda': 0.30.2
       ramda: 0.30.1
       ramda-adjunct: 5.1.0(ramda@0.30.1)
       ts-mixer: 6.0.4
 
-  '@swagger-api/apidom-ns-json-schema-2020-12@1.12.1':
+  '@swagger-api/apidom-ns-json-schema-2020-12@1.13.3':
     dependencies:
       '@babel/runtime-corejs3': 7.29.10
-      '@swagger-api/apidom-core': 1.12.1
-      '@swagger-api/apidom-error': 1.12.1
-      '@swagger-api/apidom-ns-json-schema-2019-09': 1.12.1
+      '@swagger-api/apidom-core': 1.13.3
+      '@swagger-api/apidom-error': 1.13.3
+      '@swagger-api/apidom-ns-json-schema-2019-09': 1.13.3
       '@types/ramda': 0.30.2
       ramda: 0.30.1
       ramda-adjunct: 5.1.0(ramda@0.30.1)
       ts-mixer: 6.0.4
 
-  '@swagger-api/apidom-ns-json-schema-draft-4@1.12.1':
+  '@swagger-api/apidom-ns-json-schema-draft-4@1.13.3':
     dependencies:
       '@babel/runtime-corejs3': 7.29.10
-      '@swagger-api/apidom-ast': 1.12.1
-      '@swagger-api/apidom-core': 1.12.1
+      '@swagger-api/apidom-ast': 1.13.3
+      '@swagger-api/apidom-core': 1.13.3
       '@types/ramda': 0.30.2
       ramda: 0.30.1
       ramda-adjunct: 5.1.0(ramda@0.30.1)
       ts-mixer: 6.0.4
 
-  '@swagger-api/apidom-ns-json-schema-draft-6@1.12.1':
+  '@swagger-api/apidom-ns-json-schema-draft-6@1.13.3':
     dependencies:
       '@babel/runtime-corejs3': 7.29.10
-      '@swagger-api/apidom-core': 1.12.1
-      '@swagger-api/apidom-error': 1.12.1
-      '@swagger-api/apidom-ns-json-schema-draft-4': 1.12.1
+      '@swagger-api/apidom-core': 1.13.3
+      '@swagger-api/apidom-error': 1.13.3
+      '@swagger-api/apidom-ns-json-schema-draft-4': 1.13.3
       '@types/ramda': 0.30.2
       ramda: 0.30.1
       ramda-adjunct: 5.1.0(ramda@0.30.1)
       ts-mixer: 6.0.4
 
-  '@swagger-api/apidom-ns-json-schema-draft-7@1.12.1':
+  '@swagger-api/apidom-ns-json-schema-draft-7@1.13.3':
     dependencies:
       '@babel/runtime-corejs3': 7.29.10
-      '@swagger-api/apidom-core': 1.12.1
-      '@swagger-api/apidom-error': 1.12.1
-      '@swagger-api/apidom-ns-json-schema-draft-6': 1.12.1
+      '@swagger-api/apidom-core': 1.13.3
+      '@swagger-api/apidom-error': 1.13.3
+      '@swagger-api/apidom-ns-json-schema-draft-6': 1.13.3
       '@types/ramda': 0.30.2
       ramda: 0.30.1
       ramda-adjunct: 5.1.0(ramda@0.30.1)
       ts-mixer: 6.0.4
 
-  '@swagger-api/apidom-ns-openapi-2@1.12.1':
+  '@swagger-api/apidom-ns-openapi-2@1.13.3':
     dependencies:
       '@babel/runtime-corejs3': 7.29.10
-      '@swagger-api/apidom-core': 1.12.1
-      '@swagger-api/apidom-error': 1.12.1
-      '@swagger-api/apidom-ns-json-schema-draft-4': 1.12.1
+      '@swagger-api/apidom-core': 1.13.3
+      '@swagger-api/apidom-error': 1.13.3
+      '@swagger-api/apidom-ns-json-schema-draft-4': 1.13.3
       '@types/ramda': 0.30.2
       ramda: 0.30.1
       ramda-adjunct: 5.1.0(ramda@0.30.1)
       ts-mixer: 6.0.4
 
-  '@swagger-api/apidom-ns-openapi-3-0@1.12.1':
+  '@swagger-api/apidom-ns-openapi-3-0@1.13.3':
     dependencies:
       '@babel/runtime-corejs3': 7.29.10
-      '@swagger-api/apidom-core': 1.12.1
-      '@swagger-api/apidom-error': 1.12.1
-      '@swagger-api/apidom-ns-json-schema-draft-4': 1.12.1
+      '@swagger-api/apidom-core': 1.13.3
+      '@swagger-api/apidom-error': 1.13.3
+      '@swagger-api/apidom-ns-json-schema-draft-4': 1.13.3
       '@types/ramda': 0.30.2
       ramda: 0.30.1
       ramda-adjunct: 5.1.0(ramda@0.30.1)
       ts-mixer: 6.0.4
 
-  '@swagger-api/apidom-ns-openapi-3-1@1.12.1':
+  '@swagger-api/apidom-ns-openapi-3-1@1.13.3':
     dependencies:
       '@babel/runtime-corejs3': 7.29.10
-      '@swagger-api/apidom-ast': 1.12.1
-      '@swagger-api/apidom-core': 1.12.1
-      '@swagger-api/apidom-json-pointer': 1.12.1
-      '@swagger-api/apidom-ns-json-schema-2020-12': 1.12.1
-      '@swagger-api/apidom-ns-openapi-3-0': 1.12.1
+      '@swagger-api/apidom-ast': 1.13.3
+      '@swagger-api/apidom-core': 1.13.3
+      '@swagger-api/apidom-json-pointer': 1.13.3
+      '@swagger-api/apidom-ns-json-schema-2020-12': 1.13.3
+      '@swagger-api/apidom-ns-openapi-3-0': 1.13.3
       '@types/ramda': 0.30.2
       ramda: 0.30.1
       ramda-adjunct: 5.1.0(ramda@0.30.1)
       ts-mixer: 6.0.4
 
-  '@swagger-api/apidom-ns-openapi-3-2@1.12.1':
+  '@swagger-api/apidom-ns-openapi-3-2@1.13.3':
     dependencies:
       '@babel/runtime-corejs3': 7.29.10
-      '@swagger-api/apidom-ast': 1.12.1
-      '@swagger-api/apidom-core': 1.12.1
-      '@swagger-api/apidom-json-pointer': 1.12.1
-      '@swagger-api/apidom-ns-json-schema-2020-12': 1.12.1
-      '@swagger-api/apidom-ns-openapi-3-0': 1.12.1
-      '@swagger-api/apidom-ns-openapi-3-1': 1.12.1
+      '@swagger-api/apidom-ast': 1.13.3
+      '@swagger-api/apidom-core': 1.13.3
+      '@swagger-api/apidom-json-pointer': 1.13.3
+      '@swagger-api/apidom-ns-json-schema-2020-12': 1.13.3
+      '@swagger-api/apidom-ns-openapi-3-0': 1.13.3
+      '@swagger-api/apidom-ns-openapi-3-1': 1.13.3
       '@types/ramda': 0.30.2
       ramda: 0.30.1
       ramda-adjunct: 5.1.0(ramda@0.30.1)
       ts-mixer: 6.0.4
 
-  '@swagger-api/apidom-parser-adapter-a2a-json-1@1.12.1':
+  '@swagger-api/apidom-parser-adapter-a2a-json-1@1.13.3':
     dependencies:
       '@babel/runtime-corejs3': 7.29.10
-      '@swagger-api/apidom-core': 1.12.1
-      '@swagger-api/apidom-ns-a2a-1': 1.12.1
-      '@swagger-api/apidom-parser-adapter-json': 1.12.1
+      '@swagger-api/apidom-core': 1.13.3
+      '@swagger-api/apidom-ns-a2a-1': 1.13.3
+      '@swagger-api/apidom-parser-adapter-json': 1.13.3
       '@types/ramda': 0.30.2
       ramda: 0.30.1
       ramda-adjunct: 5.1.0(ramda@0.30.1)
 
-  '@swagger-api/apidom-parser-adapter-a2a-yaml-1@1.12.1':
+  '@swagger-api/apidom-parser-adapter-a2a-yaml-1@1.13.3':
     dependencies:
       '@babel/runtime-corejs3': 7.29.10
-      '@swagger-api/apidom-core': 1.12.1
-      '@swagger-api/apidom-ns-a2a-1': 1.12.1
-      '@swagger-api/apidom-parser-adapter-yaml-1-2': 1.12.1
+      '@swagger-api/apidom-core': 1.13.3
+      '@swagger-api/apidom-ns-a2a-1': 1.13.3
+      '@swagger-api/apidom-parser-adapter-yaml-1-2': 1.13.3
       '@types/ramda': 0.30.2
       ramda: 0.30.1
       ramda-adjunct: 5.1.0(ramda@0.30.1)
 
-  '@swagger-api/apidom-parser-adapter-api-design-systems-json@1.12.1':
+  '@swagger-api/apidom-parser-adapter-api-design-systems-json@1.13.3':
     dependencies:
       '@babel/runtime-corejs3': 7.29.10
-      '@swagger-api/apidom-core': 1.12.1
-      '@swagger-api/apidom-ns-api-design-systems': 1.12.1
-      '@swagger-api/apidom-parser-adapter-json': 1.12.1
+      '@swagger-api/apidom-core': 1.13.3
+      '@swagger-api/apidom-ns-api-design-systems': 1.13.3
+      '@swagger-api/apidom-parser-adapter-json': 1.13.3
       '@types/ramda': 0.30.2
       ramda: 0.30.1
       ramda-adjunct: 5.1.0(ramda@0.30.1)
 
-  '@swagger-api/apidom-parser-adapter-api-design-systems-yaml@1.12.1':
+  '@swagger-api/apidom-parser-adapter-api-design-systems-yaml@1.13.3':
     dependencies:
       '@babel/runtime-corejs3': 7.29.10
-      '@swagger-api/apidom-core': 1.12.1
-      '@swagger-api/apidom-ns-api-design-systems': 1.12.1
-      '@swagger-api/apidom-parser-adapter-yaml-1-2': 1.12.1
+      '@swagger-api/apidom-core': 1.13.3
+      '@swagger-api/apidom-ns-api-design-systems': 1.13.3
+      '@swagger-api/apidom-parser-adapter-yaml-1-2': 1.13.3
       '@types/ramda': 0.30.2
       ramda: 0.30.1
       ramda-adjunct: 5.1.0(ramda@0.30.1)
 
-  '@swagger-api/apidom-parser-adapter-arazzo-json-1@1.12.1':
+  '@swagger-api/apidom-parser-adapter-arazzo-json-1@1.13.3':
     dependencies:
       '@babel/runtime-corejs3': 7.29.10
-      '@swagger-api/apidom-core': 1.12.1
-      '@swagger-api/apidom-ns-arazzo-1': 1.12.1
-      '@swagger-api/apidom-parser-adapter-json': 1.12.1
+      '@swagger-api/apidom-core': 1.13.3
+      '@swagger-api/apidom-ns-arazzo-1': 1.13.3
+      '@swagger-api/apidom-parser-adapter-json': 1.13.3
       '@types/ramda': 0.30.2
       ramda: 0.30.1
       ramda-adjunct: 5.1.0(ramda@0.30.1)
     optional: true
 
-  '@swagger-api/apidom-parser-adapter-arazzo-yaml-1@1.12.1':
+  '@swagger-api/apidom-parser-adapter-arazzo-yaml-1@1.13.3':
     dependencies:
       '@babel/runtime-corejs3': 7.29.10
-      '@swagger-api/apidom-core': 1.12.1
-      '@swagger-api/apidom-ns-arazzo-1': 1.12.1
-      '@swagger-api/apidom-parser-adapter-yaml-1-2': 1.12.1
+      '@swagger-api/apidom-core': 1.13.3
+      '@swagger-api/apidom-ns-arazzo-1': 1.13.3
+      '@swagger-api/apidom-parser-adapter-yaml-1-2': 1.13.3
       '@types/ramda': 0.30.2
       ramda: 0.30.1
       ramda-adjunct: 5.1.0(ramda@0.30.1)
     optional: true
 
-  '@swagger-api/apidom-parser-adapter-asyncapi-json-2@1.12.1':
+  '@swagger-api/apidom-parser-adapter-asyncapi-json-2@1.13.3':
     dependencies:
       '@babel/runtime-corejs3': 7.29.10
-      '@swagger-api/apidom-core': 1.12.1
-      '@swagger-api/apidom-ns-asyncapi-2': 1.12.1
-      '@swagger-api/apidom-parser-adapter-json': 1.12.1
+      '@swagger-api/apidom-core': 1.13.3
+      '@swagger-api/apidom-ns-asyncapi-2': 1.13.3
+      '@swagger-api/apidom-parser-adapter-json': 1.13.3
       '@types/ramda': 0.30.2
       ramda: 0.30.1
       ramda-adjunct: 5.1.0(ramda@0.30.1)
 
-  '@swagger-api/apidom-parser-adapter-asyncapi-json-3@1.12.1':
+  '@swagger-api/apidom-parser-adapter-asyncapi-json-3@1.13.3':
     dependencies:
       '@babel/runtime-corejs3': 7.29.10
-      '@swagger-api/apidom-core': 1.12.1
-      '@swagger-api/apidom-ns-asyncapi-3': 1.12.1
-      '@swagger-api/apidom-parser-adapter-json': 1.12.1
+      '@swagger-api/apidom-core': 1.13.3
+      '@swagger-api/apidom-ns-asyncapi-3': 1.13.3
+      '@swagger-api/apidom-parser-adapter-json': 1.13.3
       '@types/ramda': 0.30.2
       ramda: 0.30.1
       ramda-adjunct: 5.1.0(ramda@0.30.1)
 
-  '@swagger-api/apidom-parser-adapter-asyncapi-yaml-2@1.12.1':
+  '@swagger-api/apidom-parser-adapter-asyncapi-yaml-2@1.13.3':
     dependencies:
       '@babel/runtime-corejs3': 7.29.10
-      '@swagger-api/apidom-core': 1.12.1
-      '@swagger-api/apidom-ns-asyncapi-2': 1.12.1
-      '@swagger-api/apidom-parser-adapter-yaml-1-2': 1.12.1
+      '@swagger-api/apidom-core': 1.13.3
+      '@swagger-api/apidom-ns-asyncapi-2': 1.13.3
+      '@swagger-api/apidom-parser-adapter-yaml-1-2': 1.13.3
       '@types/ramda': 0.30.2
       ramda: 0.30.1
       ramda-adjunct: 5.1.0(ramda@0.30.1)
 
-  '@swagger-api/apidom-parser-adapter-asyncapi-yaml-3@1.12.1':
+  '@swagger-api/apidom-parser-adapter-asyncapi-yaml-3@1.13.3':
     dependencies:
       '@babel/runtime-corejs3': 7.29.10
-      '@swagger-api/apidom-core': 1.12.1
-      '@swagger-api/apidom-ns-asyncapi-3': 1.12.1
-      '@swagger-api/apidom-parser-adapter-yaml-1-2': 1.12.1
+      '@swagger-api/apidom-core': 1.13.3
+      '@swagger-api/apidom-ns-asyncapi-3': 1.13.3
+      '@swagger-api/apidom-parser-adapter-yaml-1-2': 1.13.3
       '@types/ramda': 0.30.2
       ramda: 0.30.1
       ramda-adjunct: 5.1.0(ramda@0.30.1)
 
-  '@swagger-api/apidom-parser-adapter-json@1.12.1':
+  '@swagger-api/apidom-parser-adapter-json@1.13.3':
     dependencies:
       '@babel/runtime-corejs3': 7.29.10
-      '@swagger-api/apidom-ast': 1.12.1
-      '@swagger-api/apidom-core': 1.12.1
-      '@swagger-api/apidom-error': 1.12.1
+      '@swagger-api/apidom-ast': 1.13.3
+      '@swagger-api/apidom-core': 1.13.3
+      '@swagger-api/apidom-error': 1.13.3
       '@types/ramda': 0.30.2
       ramda: 0.30.1
       ramda-adjunct: 5.1.0(ramda@0.30.1)
@@ -3157,92 +3157,92 @@ snapshots:
       tree-sitter-json: 0.24.8(tree-sitter@0.21.1)
       web-tree-sitter: 0.24.5
 
-  '@swagger-api/apidom-parser-adapter-openapi-json-2@1.12.1':
+  '@swagger-api/apidom-parser-adapter-openapi-json-2@1.13.3':
     dependencies:
       '@babel/runtime-corejs3': 7.29.10
-      '@swagger-api/apidom-core': 1.12.1
-      '@swagger-api/apidom-ns-openapi-2': 1.12.1
-      '@swagger-api/apidom-parser-adapter-json': 1.12.1
+      '@swagger-api/apidom-core': 1.13.3
+      '@swagger-api/apidom-ns-openapi-2': 1.13.3
+      '@swagger-api/apidom-parser-adapter-json': 1.13.3
       '@types/ramda': 0.30.2
       ramda: 0.30.1
       ramda-adjunct: 5.1.0(ramda@0.30.1)
 
-  '@swagger-api/apidom-parser-adapter-openapi-json-3-0@1.12.1':
+  '@swagger-api/apidom-parser-adapter-openapi-json-3-0@1.13.3':
     dependencies:
       '@babel/runtime-corejs3': 7.29.10
-      '@swagger-api/apidom-core': 1.12.1
-      '@swagger-api/apidom-ns-openapi-3-0': 1.12.1
-      '@swagger-api/apidom-parser-adapter-json': 1.12.1
+      '@swagger-api/apidom-core': 1.13.3
+      '@swagger-api/apidom-ns-openapi-3-0': 1.13.3
+      '@swagger-api/apidom-parser-adapter-json': 1.13.3
       '@types/ramda': 0.30.2
       ramda: 0.30.1
       ramda-adjunct: 5.1.0(ramda@0.30.1)
 
-  '@swagger-api/apidom-parser-adapter-openapi-json-3-1@1.12.1':
+  '@swagger-api/apidom-parser-adapter-openapi-json-3-1@1.13.3':
     dependencies:
       '@babel/runtime-corejs3': 7.29.10
-      '@swagger-api/apidom-core': 1.12.1
-      '@swagger-api/apidom-ns-openapi-3-1': 1.12.1
-      '@swagger-api/apidom-parser-adapter-json': 1.12.1
+      '@swagger-api/apidom-core': 1.13.3
+      '@swagger-api/apidom-ns-openapi-3-1': 1.13.3
+      '@swagger-api/apidom-parser-adapter-json': 1.13.3
       '@types/ramda': 0.30.2
       ramda: 0.30.1
       ramda-adjunct: 5.1.0(ramda@0.30.1)
 
-  '@swagger-api/apidom-parser-adapter-openapi-json-3-2@1.12.1':
+  '@swagger-api/apidom-parser-adapter-openapi-json-3-2@1.13.3':
     dependencies:
       '@babel/runtime-corejs3': 7.29.10
-      '@swagger-api/apidom-core': 1.12.1
-      '@swagger-api/apidom-ns-openapi-3-2': 1.12.1
-      '@swagger-api/apidom-parser-adapter-json': 1.12.1
+      '@swagger-api/apidom-core': 1.13.3
+      '@swagger-api/apidom-ns-openapi-3-2': 1.13.3
+      '@swagger-api/apidom-parser-adapter-json': 1.13.3
       '@types/ramda': 0.30.2
       ramda: 0.30.1
       ramda-adjunct: 5.1.0(ramda@0.30.1)
 
-  '@swagger-api/apidom-parser-adapter-openapi-yaml-2@1.12.1':
+  '@swagger-api/apidom-parser-adapter-openapi-yaml-2@1.13.3':
     dependencies:
       '@babel/runtime-corejs3': 7.29.10
-      '@swagger-api/apidom-core': 1.12.1
-      '@swagger-api/apidom-ns-openapi-2': 1.12.1
-      '@swagger-api/apidom-parser-adapter-yaml-1-2': 1.12.1
+      '@swagger-api/apidom-core': 1.13.3
+      '@swagger-api/apidom-ns-openapi-2': 1.13.3
+      '@swagger-api/apidom-parser-adapter-yaml-1-2': 1.13.3
       '@types/ramda': 0.30.2
       ramda: 0.30.1
       ramda-adjunct: 5.1.0(ramda@0.30.1)
 
-  '@swagger-api/apidom-parser-adapter-openapi-yaml-3-0@1.12.1':
+  '@swagger-api/apidom-parser-adapter-openapi-yaml-3-0@1.13.3':
     dependencies:
       '@babel/runtime-corejs3': 7.29.10
-      '@swagger-api/apidom-core': 1.12.1
-      '@swagger-api/apidom-ns-openapi-3-0': 1.12.1
-      '@swagger-api/apidom-parser-adapter-yaml-1-2': 1.12.1
+      '@swagger-api/apidom-core': 1.13.3
+      '@swagger-api/apidom-ns-openapi-3-0': 1.13.3
+      '@swagger-api/apidom-parser-adapter-yaml-1-2': 1.13.3
       '@types/ramda': 0.30.2
       ramda: 0.30.1
       ramda-adjunct: 5.1.0(ramda@0.30.1)
 
-  '@swagger-api/apidom-parser-adapter-openapi-yaml-3-1@1.12.1':
+  '@swagger-api/apidom-parser-adapter-openapi-yaml-3-1@1.13.3':
     dependencies:
       '@babel/runtime-corejs3': 7.29.10
-      '@swagger-api/apidom-core': 1.12.1
-      '@swagger-api/apidom-ns-openapi-3-1': 1.12.1
-      '@swagger-api/apidom-parser-adapter-yaml-1-2': 1.12.1
+      '@swagger-api/apidom-core': 1.13.3
+      '@swagger-api/apidom-ns-openapi-3-1': 1.13.3
+      '@swagger-api/apidom-parser-adapter-yaml-1-2': 1.13.3
       '@types/ramda': 0.30.2
       ramda: 0.30.1
       ramda-adjunct: 5.1.0(ramda@0.30.1)
 
-  '@swagger-api/apidom-parser-adapter-openapi-yaml-3-2@1.12.1':
+  '@swagger-api/apidom-parser-adapter-openapi-yaml-3-2@1.13.3':
     dependencies:
       '@babel/runtime-corejs3': 7.29.10
-      '@swagger-api/apidom-core': 1.12.1
-      '@swagger-api/apidom-ns-openapi-3-2': 1.12.1
-      '@swagger-api/apidom-parser-adapter-yaml-1-2': 1.12.1
+      '@swagger-api/apidom-core': 1.13.3
+      '@swagger-api/apidom-ns-openapi-3-2': 1.13.3
+      '@swagger-api/apidom-parser-adapter-yaml-1-2': 1.13.3
       '@types/ramda': 0.30.2
       ramda: 0.30.1
       ramda-adjunct: 5.1.0(ramda@0.30.1)
 
-  '@swagger-api/apidom-parser-adapter-yaml-1-2@1.12.1':
+  '@swagger-api/apidom-parser-adapter-yaml-1-2@1.13.3':
     dependencies:
       '@babel/runtime-corejs3': 7.29.10
-      '@swagger-api/apidom-ast': 1.12.1
-      '@swagger-api/apidom-core': 1.12.1
-      '@swagger-api/apidom-error': 1.12.1
+      '@swagger-api/apidom-ast': 1.13.3
+      '@swagger-api/apidom-core': 1.13.3
+      '@swagger-api/apidom-error': 1.13.3
       '@tree-sitter-grammars/tree-sitter-yaml': 0.7.1(tree-sitter@0.22.4)
       '@types/ramda': 0.30.2
       ramda: 0.30.1
@@ -3250,54 +3250,54 @@ snapshots:
       tree-sitter: 0.22.4
       web-tree-sitter: 0.24.5
 
-  '@swagger-api/apidom-parser@1.12.1':
+  '@swagger-api/apidom-parser@1.13.3':
     dependencies:
       '@babel/runtime-corejs3': 7.29.10
-      '@swagger-api/apidom-core': 1.12.1
-      '@swagger-api/apidom-error': 1.12.1
+      '@swagger-api/apidom-core': 1.13.3
+      '@swagger-api/apidom-error': 1.13.3
       '@types/ramda': 0.30.2
       ramda: 0.30.1
       ramda-adjunct: 5.1.0(ramda@0.30.1)
 
-  '@swagger-api/apidom-reference@1.12.1(debug@4.4.3(supports-color@7.2.0))(supports-color@7.2.0)':
+  '@swagger-api/apidom-reference@1.13.3(debug@4.4.3(supports-color@7.2.0))(supports-color@7.2.0)':
     dependencies:
       '@babel/runtime-corejs3': 7.29.10
-      '@swagger-api/apidom-core': 1.12.1
-      '@swagger-api/apidom-error': 1.12.1
+      '@swagger-api/apidom-core': 1.13.3
+      '@swagger-api/apidom-error': 1.13.3
       '@types/ramda': 0.30.2
       axios: 1.20.0(debug@4.4.3(supports-color@7.2.0))(supports-color@7.2.0)
       minimatch: 10.2.6
       ramda: 0.30.1
       ramda-adjunct: 5.1.0(ramda@0.30.1)
     optionalDependencies:
-      '@swagger-api/apidom-json-pointer': 1.12.1
-      '@swagger-api/apidom-ns-a2a-1': 1.12.1
-      '@swagger-api/apidom-ns-arazzo-1': 1.12.1
-      '@swagger-api/apidom-ns-asyncapi-2': 1.12.1
-      '@swagger-api/apidom-ns-openapi-2': 1.12.1
-      '@swagger-api/apidom-ns-openapi-3-0': 1.12.1
-      '@swagger-api/apidom-ns-openapi-3-1': 1.12.1
-      '@swagger-api/apidom-ns-openapi-3-2': 1.12.1
-      '@swagger-api/apidom-parser-adapter-a2a-json-1': 1.12.1
-      '@swagger-api/apidom-parser-adapter-a2a-yaml-1': 1.12.1
-      '@swagger-api/apidom-parser-adapter-api-design-systems-json': 1.12.1
-      '@swagger-api/apidom-parser-adapter-api-design-systems-yaml': 1.12.1
-      '@swagger-api/apidom-parser-adapter-arazzo-json-1': 1.12.1
-      '@swagger-api/apidom-parser-adapter-arazzo-yaml-1': 1.12.1
-      '@swagger-api/apidom-parser-adapter-asyncapi-json-2': 1.12.1
-      '@swagger-api/apidom-parser-adapter-asyncapi-json-3': 1.12.1
-      '@swagger-api/apidom-parser-adapter-asyncapi-yaml-2': 1.12.1
-      '@swagger-api/apidom-parser-adapter-asyncapi-yaml-3': 1.12.1
-      '@swagger-api/apidom-parser-adapter-json': 1.12.1
-      '@swagger-api/apidom-parser-adapter-openapi-json-2': 1.12.1
-      '@swagger-api/apidom-parser-adapter-openapi-json-3-0': 1.12.1
-      '@swagger-api/apidom-parser-adapter-openapi-json-3-1': 1.12.1
-      '@swagger-api/apidom-parser-adapter-openapi-json-3-2': 1.12.1
-      '@swagger-api/apidom-parser-adapter-openapi-yaml-2': 1.12.1
-      '@swagger-api/apidom-parser-adapter-openapi-yaml-3-0': 1.12.1
-      '@swagger-api/apidom-parser-adapter-openapi-yaml-3-1': 1.12.1
-      '@swagger-api/apidom-parser-adapter-openapi-yaml-3-2': 1.12.1
-      '@swagger-api/apidom-parser-adapter-yaml-1-2': 1.12.1
+      '@swagger-api/apidom-json-pointer': 1.13.3
+      '@swagger-api/apidom-ns-a2a-1': 1.13.3
+      '@swagger-api/apidom-ns-arazzo-1': 1.13.3
+      '@swagger-api/apidom-ns-asyncapi-2': 1.13.3
+      '@swagger-api/apidom-ns-openapi-2': 1.13.3
+      '@swagger-api/apidom-ns-openapi-3-0': 1.13.3
+      '@swagger-api/apidom-ns-openapi-3-1': 1.13.3
+      '@swagger-api/apidom-ns-openapi-3-2': 1.13.3
+      '@swagger-api/apidom-parser-adapter-a2a-json-1': 1.13.3
+      '@swagger-api/apidom-parser-adapter-a2a-yaml-1': 1.13.3
+      '@swagger-api/apidom-parser-adapter-api-design-systems-json': 1.13.3
+      '@swagger-api/apidom-parser-adapter-api-design-systems-yaml': 1.13.3
+      '@swagger-api/apidom-parser-adapter-arazzo-json-1': 1.13.3
+      '@swagger-api/apidom-parser-adapter-arazzo-yaml-1': 1.13.3
+      '@swagger-api/apidom-parser-adapter-asyncapi-json-2': 1.13.3
+      '@swagger-api/apidom-parser-adapter-asyncapi-json-3': 1.13.3
+      '@swagger-api/apidom-parser-adapter-asyncapi-yaml-2': 1.13.3
+      '@swagger-api/apidom-parser-adapter-asyncapi-yaml-3': 1.13.3
+      '@swagger-api/apidom-parser-adapter-json': 1.13.3
+      '@swagger-api/apidom-parser-adapter-openapi-json-2': 1.13.3
+      '@swagger-api/apidom-parser-adapter-openapi-json-3-0': 1.13.3
+      '@swagger-api/apidom-parser-adapter-openapi-json-3-1': 1.13.3
+      '@swagger-api/apidom-parser-adapter-openapi-json-3-2': 1.13.3
+      '@swagger-api/apidom-parser-adapter-openapi-yaml-2': 1.13.3
+      '@swagger-api/apidom-parser-adapter-openapi-yaml-3-0': 1.13.3
+      '@swagger-api/apidom-parser-adapter-openapi-yaml-3-1': 1.13.3
+      '@swagger-api/apidom-parser-adapter-openapi-yaml-3-2': 1.13.3
+      '@swagger-api/apidom-parser-adapter-yaml-1-2': 1.13.3
     transitivePeerDependencies:
       - debug
       - supports-color
