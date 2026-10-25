@@ -39,7 +39,7 @@
         "@swagger-api/apidom-ls": "1.13.3",
         "chalk": "6.0.1",
         "citty": "0.2.2",
-        "vscode-languageserver-textdocument": "1.0.15"
+        "vscode-languageserver-textdocument": "1.0.16"
     },
     "devDependencies": {
         "@semantic-release/exec": "7.1.0",
