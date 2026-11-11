@@ -19,9 +19,9 @@ describe("validateFile", () => {
             .map((d) => d.code)
             .filter((code): code is number => typeof code === "number");
 
-        // 10001: "type must be one of allowed values"
+        // 8032700: "type must be one of allowed values"
         // 10069: deprecated "example" warning
-        assert.ok(codes.includes(10001), `expected code 10001 in ${String(codes)}`);
+        assert.ok(codes.includes(8032700), `expected code 8032700 in ${String(codes)}`);
         assert.ok(codes.includes(10069), `expected code 10069 in ${String(codes)}`);
     });
 });

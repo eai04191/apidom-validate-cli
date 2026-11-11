@@ -46,7 +46,7 @@ describe("apidom-validate-cli (spawned)", () => {
     it("exits 1 and lists diagnostics for an invalid document", async () => {
         const { stdout, exitCode } = await runCli([fixture("invalid.yaml")]);
         assert.equal(exitCode, 1);
-        assert.match(stdout, /error.*10001/);
+        assert.match(stdout, /error.*8032700/);
         assert.match(stdout, /warning.*10069/);
         assert.match(stdout, /✖ \d+ problems? \(/);
     });

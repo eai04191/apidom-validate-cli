@@ -167,8 +167,8 @@ importers:
   .:
     dependencies:
       '@swagger-api/apidom-ls':
-        specifier: 1.13.3
-        version: 1.13.3(debug@4.4.3(supports-color@7.2.0))(supports-color@7.2.0)
+        specifier: 1.14.0
+        version: 1.14.0(debug@4.4.3(supports-color@7.2.0))(supports-color@7.2.0)
       chalk:
         specifier: 6.0.1
         version: 6.0.1
@@ -662,8 +662,8 @@ packages:
   '@swagger-api/apidom-json-pointer@1.14.0':
     resolution: {integrity: sha512-lxBGROkikKtqe8WyXSczRSttwKp79jqNiJ2KK6OsuWxe+3ehic2dzvC+xKXgIiSkGjYRV3saSa2OcwvcqSWOuQ==}
 
-  '@swagger-api/apidom-ls@1.13.3':
-    resolution: {integrity: sha512-gy3FrBstDf391dXVvC6EF9w1ccpvb32CqAoqKeVmCKGyY66ZL6CdwINrYxkAfFmlRCV2jEXoa96Dp73J4VAMtg==}
+  '@swagger-api/apidom-ls@1.14.0':
+    resolution: {integrity: sha512-AyZzu/O7nJhHo5mSQJc+Xv7DHn4pEp46sOwXIPWN+ENEsNJebY5HA3G4x54BUA/yhd/DIBpBP8Is+2Dd8lch1w==}
 
   '@swagger-api/apidom-ns-a2a-1@1.14.0':
     resolution: {integrity: sha512-Dz/z444nTMr2n4cGHhf7fuBdX6dI+rsS65651NLmD52oFENRkklMgWcfwZqBWp8u87oLsCf8ZS0vqiaU6myLfQ==}
@@ -2848,7 +2848,7 @@ snapshots:
       '@swagger-api/apidom-error': 1.14.0
       '@swaggerexpert/json-pointer': 2.10.2
 
-  '@swagger-api/apidom-ls@1.13.3(debug@4.4.3(supports-color@7.2.0))(supports-color@7.2.0)':
+  '@swagger-api/apidom-ls@1.14.0(debug@4.4.3(supports-color@7.2.0))(supports-color@7.2.0)':
     dependencies:
       '@babel/runtime-corejs3': 7.29.13
       '@swagger-api/apidom-core': 1.14.0
@@ -2857,6 +2857,7 @@ snapshots:
       '@swagger-api/apidom-ns-a2a-1': 1.14.0
       '@swagger-api/apidom-ns-api-design-systems': 1.14.0
       '@swagger-api/apidom-ns-asyncapi-2': 1.14.0
+      '@swagger-api/apidom-ns-json-schema-2020-12': 1.14.0
       '@swagger-api/apidom-ns-openapi-2': 1.14.0
       '@swagger-api/apidom-ns-openapi-3-0': 1.14.0
       '@swagger-api/apidom-ns-openapi-3-1': 1.14.0
@@ -2871,6 +2872,8 @@ snapshots:
       '@swagger-api/apidom-parser-adapter-asyncapi-yaml-2': 1.14.0
       '@swagger-api/apidom-parser-adapter-asyncapi-yaml-3': 1.14.0
       '@swagger-api/apidom-parser-adapter-json': 1.14.0
+      '@swagger-api/apidom-parser-adapter-json-schema-json-2020-12': 1.14.0
+      '@swagger-api/apidom-parser-adapter-json-schema-yaml-2020-12': 1.14.0
       '@swagger-api/apidom-parser-adapter-openapi-json-2': 1.14.0
       '@swagger-api/apidom-parser-adapter-openapi-json-3-0': 1.14.0
       '@swagger-api/apidom-parser-adapter-openapi-json-3-1': 1.14.0
@@ -3164,7 +3167,6 @@ snapshots:
       '@types/ramda': 0.30.2
       ramda: 0.30.1
       ramda-adjunct: 5.1.0(ramda@0.30.1)
-    optional: true
 
   '@swagger-api/apidom-parser-adapter-json-schema-yaml-2020-12@1.14.0':
     dependencies:
@@ -3175,7 +3177,6 @@ snapshots:
       '@types/ramda': 0.30.2
       ramda: 0.30.1
       ramda-adjunct: 5.1.0(ramda@0.30.1)
-    optional: true
 
   '@swagger-api/apidom-parser-adapter-json@1.14.0':
     dependencies:
