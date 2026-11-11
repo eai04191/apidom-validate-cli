@@ -16,6 +16,11 @@
     ],
     "packageRules": [
         {
+            "description": "Keep Node.js types aligned with the minimum supported Node.js major",
+            "matchPackageNames": ["@types/node"],
+            "allowedVersions": "22.x"
+        },
+        {
             "matchPackageNames": ["@swagger-api/apidom-ls"],
             "semanticCommitType": "feat",
             "semanticCommitScope": "deps",
