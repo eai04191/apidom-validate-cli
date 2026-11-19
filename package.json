@@ -50,7 +50,7 @@
         "oxlint": "1.93.0",
         "oxlint-config-presets": "0.1.22",
         "oxlint-tsgolint": "7.0.2007",
-        "semantic-release": "25.0.9",
+        "semantic-release": "26.0.1",
         "typescript": "7.0.2",
         "vscode-languageserver-types": "3.18.5"
     },
